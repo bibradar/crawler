@@ -690,141 +690,6 @@
             }
         }
     },
-    "/apstat/filter/Unterbezirk/af": {
-        "bib": "Teilbibliothek Chemie",
-        "uni": "TUM",
-        "name": "TUM, Geb. 5401, Chemiegebäude Bau Ch1, Bibliothek, Hörsaal",
-        "address": [
-            "Lichtenbergstraße 4",
-            "85748 Garching"
-        ],
-        "url": "/apstat/filter/Unterbezirk/af",
-        "rooms": {
-            "21019, Rechenzentrum": {
-                "name": "21019, Rechenzentrum",
-                "aps": [
-                    {
-                        "name": "apa10-2af",
-                        "url": "/apstat/apa10-2af/"
-                    },
-                    {
-                        "name": "apa14-2af",
-                        "url": "/apstat/apa14-2af/"
-                    }
-                ]
-            },
-            "21003, Scannerraum": {
-                "name": "21003, Scannerraum",
-                "aps": [
-                    {
-                        "name": "apa13-2af",
-                        "url": "/apstat/apa13-2af/"
-                    }
-                ]
-            },
-            "11150, Lesesaal hinten": {
-                "name": "11150, Lesesaal hinten",
-                "aps": [
-                    {
-                        "name": "apa10-1af",
-                        "url": "/apstat/apa10-1af/"
-                    }
-                ]
-            },
-            "Gruenflaeche Chemie": {
-                "name": "Gruenflaeche Chemie",
-                "aps": [
-                    {
-                        "name": "apa01-0af",
-                        "url": "/apstat/apa01-0af/"
-                    },
-                    {
-                        "name": "apa02-0af",
-                        "url": "/apstat/apa02-0af/"
-                    }
-                ]
-            },
-            "HS 21010": {
-                "name": "HS 21010",
-                "aps": [
-                    {
-                        "name": "apa09-2af",
-                        "url": "/apstat/apa09-2af/"
-                    },
-                    {
-                        "name": "apa08-2af",
-                        "url": "/apstat/apa08-2af/"
-                    },
-                    {
-                        "name": "apa07-2af",
-                        "url": "/apstat/apa07-2af/"
-                    }
-                ]
-            },
-            "CH 21010, Hans-Fischer-Hörsaal links der Tafel": {
-                "name": "CH 21010, Hans-Fischer-Hörsaal links der Tafel",
-                "aps": [
-                    {
-                        "name": "apa11-2af",
-                        "url": "/apstat/apa11-2af/"
-                    }
-                ]
-            },
-            "11173, Büchermagazin": {
-                "name": "11173, Büchermagazin",
-                "aps": [
-                    {
-                        "name": "apa05-1af",
-                        "url": "/apstat/apa05-1af/"
-                    },
-                    {
-                        "name": "apa06-1af",
-                        "url": "/apstat/apa06-1af/"
-                    }
-                ]
-            },
-            "11150, Lesesaal": {
-                "name": "11150, Lesesaal",
-                "aps": [
-                    {
-                        "name": "apa09-1af",
-                        "url": "/apstat/apa09-1af/"
-                    }
-                ]
-            },
-            "CH 21010, Hans-Fischer-Hörsaal rechts der Tafel": {
-                "name": "CH 21010, Hans-Fischer-Hörsaal rechts der Tafel",
-                "aps": [
-                    {
-                        "name": "apa12-2af",
-                        "url": "/apstat/apa12-2af/"
-                    }
-                ]
-            },
-            "11110, Technikum": {
-                "name": "11110, Technikum",
-                "aps": [
-                    {
-                        "name": "apa07-1af",
-                        "url": "/apstat/apa07-1af/"
-                    },
-                    {
-                        "name": "apa08-1af",
-                        "url": "/apstat/apa08-1af/"
-                    }
-                ]
-            },
-            "11140, Lesesaal/Seminarraum": {
-                "name": "11140, Lesesaal/Seminarraum",
-                "aps": [
-                    {
-                        "name": "apa04-1af",
-                        "url": "/apstat/apa04-1af/"
-                    }
-                ]
-            }
-        }
-    },
     "/apstat/filter/Unterbezirk/l3": {
         "bib": "Lernzentrum Leo 13",
         "uni": "LMU",
@@ -2145,6 +2010,284 @@
                     {
                         "name": "apa16-0w5",
                         "url": "/apstat/apa16-0w5/"
+                    }
+                ]
+            }
+        }
+    },
+    "/apstat/filter/Unterbezirk/bb": {
+        "bib": "Teilbibliothek Stammgelände",
+        "uni": "TUM",
+        "name": "TUM, Geb. 0501 (Stammgelände)",
+        "address": [
+            "Arcisstraße 21",
+            "80333 München"
+        ],
+        "url": "/apstat/filter/Unterbezirk/bb",
+        "rooms": {
+            "2148, Lesesaal Nord": {
+                "name": "2148, Lesesaal Nord",
+                "aps": [
+                    {
+                        "name": "apa36-2bb",
+                        "url": "/apstat/apa36-2bb/"
+                    }
+                ]
+            },
+            "2148, Lesesaal Süd": {
+                "name": "2148, Lesesaal Süd",
+                "aps": [
+                    {
+                        "name": "apa37-2bb",
+                        "url": "/apstat/apa37-2bb/"
+                    }
+                ]
+            },
+            "2140, Lesesaal": {
+                "name": "2140, Lesesaal",
+                "aps": [
+                    {
+                        "name": "apa39-2bb",
+                        "url": "/apstat/apa39-2bb/"
+                    },
+                    {
+                        "name": "apa38-2bb",
+                        "url": "/apstat/apa38-2bb/"
+                    },
+                    {
+                        "name": "apa41-2bb",
+                        "url": "/apstat/apa41-2bb/"
+                    },
+                    {
+                        "name": "apa40-2bb",
+                        "url": "/apstat/apa40-2bb/"
+                    }
+                ]
+            },
+            "1160, Lesesaal": {
+                "name": "1160, Lesesaal",
+                "aps": [
+                    {
+                        "name": "apa14-1bb",
+                        "url": "/apstat/apa14-1bb/"
+                    },
+                    {
+                        "name": "apa16-1bb",
+                        "url": "/apstat/apa16-1bb/"
+                    }
+                ]
+            },
+            "4120, Studentische Arbeitsplätze (gem.Nutz.CAAD)": {
+                "name": "4120, Studentische Arbeitsplätze (gem.Nutz.CAAD)",
+                "aps": [
+                    {
+                        "name": "apa11-4bb",
+                        "url": "/apstat/apa11-4bb/"
+                    }
+                ]
+            },
+            "Z1136A, Lesesaal ZG": {
+                "name": "Z1136A, Lesesaal ZG",
+                "aps": [
+                    {
+                        "name": "apa29-2bb",
+                        "url": "/apstat/apa29-2bb/"
+                    },
+                    {
+                        "name": "apa27-2bb",
+                        "url": "/apstat/apa27-2bb/"
+                    },
+                    {
+                        "name": "apa33-2bb",
+                        "url": "/apstat/apa33-2bb/"
+                    }
+                ]
+            },
+            "4140, Studentische Arbeitsplätze": {
+                "name": "4140, Studentische Arbeitsplätze",
+                "aps": [
+                    {
+                        "name": "apa09-4bb",
+                        "url": "/apstat/apa09-4bb/"
+                    }
+                ]
+            },
+            "2170, Lesesaal": {
+                "name": "2170, Lesesaal",
+                "aps": [
+                    {
+                        "name": "apa26-2bb",
+                        "url": "/apstat/apa26-2bb/"
+                    },
+                    {
+                        "name": "apa32-2bb",
+                        "url": "/apstat/apa32-2bb/"
+                    }
+                ]
+            },
+            "3140, Stud. Arbeitsplätze": {
+                "name": "3140, Stud. Arbeitsplätze",
+                "aps": [
+                    {
+                        "name": "apa11-3bb",
+                        "url": "/apstat/apa11-3bb/"
+                    }
+                ]
+            },
+            "3170A, Studentische Arbeitsplätze": {
+                "name": "3170A, Studentische Arbeitsplätze",
+                "aps": [
+                    {
+                        "name": "apa10-3bb",
+                        "url": "/apstat/apa10-3bb/"
+                    }
+                ]
+            },
+            "1140, Lesesaal": {
+                "name": "1140, Lesesaal",
+                "aps": [
+                    {
+                        "name": "apa13-1bb",
+                        "url": "/apstat/apa13-1bb/"
+                    }
+                ]
+            },
+            "1142A, Lesesaal": {
+                "name": "1142A, Lesesaal",
+                "aps": [
+                    {
+                        "name": "apa15-1bb",
+                        "url": "/apstat/apa15-1bb/"
+                    }
+                ]
+            },
+            "1136, Lesesaal": {
+                "name": "1136, Lesesaal",
+                "aps": [
+                    {
+                        "name": "apa12-1bb",
+                        "url": "/apstat/apa12-1bb/"
+                    }
+                ]
+            }
+        }
+    },
+    "/apstat/filter/Unterbezirk/af": {
+        "bib": "Teilbibliothek Chemie",
+        "uni": "TUM",
+        "name": "TUM, Geb. 5401, Chemiegebäude Bau Ch1, Bibliothek, Hörsaal",
+        "address": [
+            "Lichtenbergstraße 4",
+            "85748 Garching"
+        ],
+        "url": "/apstat/filter/Unterbezirk/af",
+        "rooms": {
+            "21019, Rechenzentrum": {
+                "name": "21019, Rechenzentrum",
+                "aps": [
+                    {
+                        "name": "apa10-2af",
+                        "url": "/apstat/apa10-2af/"
+                    },
+                    {
+                        "name": "apa14-2af",
+                        "url": "/apstat/apa14-2af/"
+                    }
+                ]
+            },
+            "11150, Lesesaal hinten": {
+                "name": "11150, Lesesaal hinten",
+                "aps": [
+                    {
+                        "name": "apa10-1af",
+                        "url": "/apstat/apa10-1af/"
+                    }
+                ]
+            },
+            "Gruenflaeche Chemie": {
+                "name": "Gruenflaeche Chemie",
+                "aps": [
+                    {
+                        "name": "apa01-0af",
+                        "url": "/apstat/apa01-0af/"
+                    },
+                    {
+                        "name": "apa02-0af",
+                        "url": "/apstat/apa02-0af/"
+                    }
+                ]
+            },
+            "11173, Büchermagazin": {
+                "name": "11173, Büchermagazin",
+                "aps": [
+                    {
+                        "name": "apa05-1af",
+                        "url": "/apstat/apa05-1af/"
+                    },
+                    {
+                        "name": "apa06-1af",
+                        "url": "/apstat/apa06-1af/"
+                    }
+                ]
+            },
+            "11150, Lesesaal": {
+                "name": "11150, Lesesaal",
+                "aps": [
+                    {
+                        "name": "apa09-1af",
+                        "url": "/apstat/apa09-1af/"
+                    }
+                ]
+            },
+            "11140, Lesesaal/Seminarraum": {
+                "name": "11140, Lesesaal/Seminarraum",
+                "aps": [
+                    {
+                        "name": "apa04-1af",
+                        "url": "/apstat/apa04-1af/"
+                    }
+                ]
+            }
+        }
+    },
+    "/apstat/filter/Unterbezirk/at": {
+        "bib": "Teilbibliothek Physik",
+        "uni": "TUM",
+        "name": "TUM, Geb. 5101, Physikgebäude",
+        "address": [
+            "James-Franck-Straße 1",
+            "85748 Garching"
+        ],
+        "url": "/apstat/filter/Unterbezirk/at",
+        "rooms": {
+            "3235, Lesesaal Brücke Nord": {
+                "name": "3235, Lesesaal Brücke Nord",
+                "aps": [
+                    {
+                        "name": "apa41-2at",
+                        "url": "/apstat/apa41-2at/"
+                    }
+                ]
+            },
+            "1235, Magazin": {
+                "name": "1235, Magazin",
+                "aps": [
+                    {
+                        "name": "apa30-1at",
+                        "url": "/apstat/apa30-1at/"
+                    },
+                    {
+                        "name": "apa31-1at",
+                        "url": "/apstat/apa31-1at/"
+                    }
+                ]
+            },
+            "4235, Lesesaal": {
+                "name": "4235, Lesesaal",
+                "aps": [
+                    {
+                        "name": "apa43-2at",
+                        "url": "/apstat/apa43-2at/"
                     }
                 ]
             }
