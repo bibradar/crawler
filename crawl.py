@@ -3,6 +3,7 @@ import requests
 import psycopg2
 from psycopg2.extras import execute_batch
 from dotenv import load_dotenv
+from datetime import datetime
 
 # Load environment variables from .env file
 load_dotenv()
@@ -37,6 +38,11 @@ def parse_target(target):
     ssid = parts[-1]             # "@BayernWLAN"
     return access_point_name, ssid
 
+def unix_to_pg_timestamp(unix_time):
+    """Convert Unix timestamp to a PostgreSQL-compatible timestamp."""
+    return datetime.utcfromtimestamp(unix_time).isoformat()
+
+
 def write_to_db(data):
     """Write the crawled data to the database."""
     try:
@@ -53,7 +59,9 @@ def write_to_db(data):
         # Insert Utilization data
         utilization_query = """
         INSERT INTO Utilization (accesspoint_id, timestamp, user_count)
-        VALUES (%s, %s, %s);
+        VALUES (%s, %s, %s)
+        ON CONFLICT (accesspoint_id, timestamp) DO UPDATE
+        SET user_count = EXCLUDED.user_count;
         """
 
         for entry in data:
@@ -73,7 +81,7 @@ def write_to_db(data):
 
             # Prepare data for batch insertion into Utilization
             utilization_data = [
-                (access_point_id, dp[1], dp[0] or 0)  # (accesspoint_id, timestamp, user_count)
+                (access_point_id, unix_to_pg_timestamp(dp[1]), dp[0] or 0)  # (accesspoint_id, timestamp, user_count)
                 for dp in datapoints
                 if dp[1] is not None
             ]
