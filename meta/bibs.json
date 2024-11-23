@@ -1,0 +1,3371 @@
+{
+    "/apstat/filter/Unterbezirk/su": {
+        "name": "LMU, Jura, Veterinärstr. 1",
+        "address": [
+            "Veterinärstr. 1",
+            "80539 München"
+        ],
+        "url": "/apstat/filter/Unterbezirk/su",
+        "rooms": {
+            "103 Bibliothek": {
+                "name": "103 Bibliothek",
+                "aps": [
+                    {
+                        "name": "apa04-1su",
+                        "url": "/apstat/apa04-1su/"
+                    }
+                ]
+            },
+            "Bibliothek 311": {
+                "name": "Bibliothek 311",
+                "aps": [
+                    {
+                        "name": "apa01-3su",
+                        "url": "/apstat/apa01-3su/"
+                    }
+                ]
+            },
+            "101 Bibliothek": {
+                "name": "101 Bibliothek",
+                "aps": [
+                    {
+                        "name": "apa02-1su",
+                        "url": "/apstat/apa02-1su/"
+                    }
+                ]
+            }
+        }
+    },
+    "/apstat/filter/Unterbezirk/bd": {
+        "name": "TUM, Geb. 0503 (Stammgelände)",
+        "address": [
+            "Arcisstraße 21",
+            "80333 München"
+        ],
+        "url": "/apstat/filter/Unterbezirk/bd",
+        "rooms": {
+            "2326g Bibliothek": {
+                "name": "2326g Bibliothek",
+                "aps": [
+                    {
+                        "name": "apa15-2bd",
+                        "url": "/apstat/apa15-2bd/"
+                    }
+                ]
+            }
+        }
+    },
+    "/apstat/filter/Unterbezirk/gm": {
+        "name": "LMU, Geb. 0000M, Hauptgebäude/Mitteltrakt",
+        "address": [
+            "Geschwister-Scholl-Platz 1",
+            "80539 München"
+        ],
+        "url": "/apstat/filter/Unterbezirk/gm",
+        "rooms": {
+            "A226 Bibliothek": {
+                "name": "A226 Bibliothek",
+                "aps": [
+                    {
+                        "name": "apa22-2gm",
+                        "url": "/apstat/apa22-2gm/"
+                    }
+                ]
+            }
+        }
+    },
+    "/apstat/filter/Unterbezirk/bb": {
+        "name": "TUM, Geb. 0501 (Stammgelände)",
+        "address": [
+            "Arcisstraße 21",
+            "80333 München"
+        ],
+        "url": "/apstat/filter/Unterbezirk/bb",
+        "rooms": {
+            "-1190, Büchermagazin Bibliothek": {
+                "name": "-1190, Büchermagazin Bibliothek",
+                "aps": [
+                    {
+                        "name": "apa26-kbb",
+                        "url": "/apstat/apa26-kbb/"
+                    },
+                    {
+                        "name": "apa27-kbb",
+                        "url": "/apstat/apa27-kbb/"
+                    },
+                    {
+                        "name": "apa28-kbb",
+                        "url": "/apstat/apa28-kbb/"
+                    }
+                ]
+            }
+        }
+    },
+    "/apstat/filter/Unterbezirk/z2": {
+        "name": "TUM, Geb. 4401-4405, Limnologische Station, Iffeldorf",
+        "address": [
+            "Hofmark 3",
+            "82393 Iffeldorf"
+        ],
+        "url": "/apstat/filter/Unterbezirk/z2",
+        "rooms": {
+            "107, Bibliothek": {
+                "name": "107, Bibliothek",
+                "aps": [
+                    {
+                        "name": "apa01-1z2",
+                        "url": "/apstat/apa01-1z2/"
+                    }
+                ]
+            }
+        }
+    },
+    "/apstat/filter/Unterbezirk/rl": {
+        "name": "HM, Gebäude L, Pasing, Neubau",
+        "address": [
+            "Am Stadtpark 20",
+            "81243 München"
+        ],
+        "url": "/apstat/filter/Unterbezirk/rl",
+        "rooms": {
+            "Bibliothek süd": {
+                "name": "Bibliothek süd",
+                "aps": [
+                    {
+                        "name": "apa15-1rl",
+                        "url": "/apstat/apa15-1rl/"
+                    }
+                ]
+            },
+            "L E0.24 Büro Bibliothek": {
+                "name": "L E0.24 Büro Bibliothek",
+                "aps": [
+                    {
+                        "name": "apa19-0rl",
+                        "url": "/apstat/apa19-0rl/"
+                    }
+                ]
+            },
+            "Bibliothek nord": {
+                "name": "Bibliothek nord",
+                "aps": [
+                    {
+                        "name": "apa14-1rl",
+                        "url": "/apstat/apa14-1rl/"
+                    }
+                ]
+            }
+        }
+    },
+    "/apstat/filter/Unterbezirk/bh": {
+        "name": "TUM, Geb. 0507 (Stammgelände)",
+        "address": [
+            "Arcisstraße 21",
+            "80333 München"
+        ],
+        "url": "/apstat/filter/Unterbezirk/bh",
+        "rooms": {
+            "3738, Bibliothek": {
+                "name": "3738, Bibliothek",
+                "aps": [
+                    {
+                        "name": "apa06-3bh",
+                        "url": "/apstat/apa06-3bh/"
+                    }
+                ]
+            }
+        }
+    },
+    "/apstat/filter/Unterbezirk/if": {
+        "name": "LMU, FCP-F, Organische Chemie",
+        "address": [
+            "Butenandtstr. 5-13",
+            "81377 München"
+        ],
+        "url": "/apstat/filter/Unterbezirk/if",
+        "rooms": {
+            "F.0a.003 Bibliothek": {
+                "name": "F.0a.003 Bibliothek",
+                "aps": [
+                    {
+                        "name": "apa10-zif",
+                        "url": "/apstat/apa10-zif/"
+                    }
+                ]
+            },
+            "F.0a.011 Bibliothek": {
+                "name": "F.0a.011 Bibliothek",
+                "aps": [
+                    {
+                        "name": "apa14-zif",
+                        "url": "/apstat/apa14-zif/"
+                    },
+                    {
+                        "name": "apa13-zif",
+                        "url": "/apstat/apa13-zif/"
+                    }
+                ]
+            },
+            "F.0a.007 Bibliothek": {
+                "name": "F.0a.007 Bibliothek",
+                "aps": [
+                    {
+                        "name": "apa11-zif",
+                        "url": "/apstat/apa11-zif/"
+                    }
+                ]
+            },
+            "F.1.027 Bibliothek": {
+                "name": "F.1.027 Bibliothek",
+                "aps": [
+                    {
+                        "name": "apa18-1if",
+                        "url": "/apstat/apa18-1if/"
+                    }
+                ]
+            },
+            "F.1.F4 Bibliothek": {
+                "name": "F.1.F4 Bibliothek",
+                "aps": [
+                    {
+                        "name": "apa16-1if",
+                        "url": "/apstat/apa16-1if/"
+                    }
+                ]
+            },
+            "F.0a.F4 Bibliothek": {
+                "name": "F.0a.F4 Bibliothek",
+                "aps": [
+                    {
+                        "name": "apa09-zif",
+                        "url": "/apstat/apa09-zif/"
+                    },
+                    {
+                        "name": "apa08-zif",
+                        "url": "/apstat/apa08-zif/"
+                    }
+                ]
+            },
+            "F.1.010 Bibliothek": {
+                "name": "F.1.010 Bibliothek",
+                "aps": [
+                    {
+                        "name": "apa19-1if",
+                        "url": "/apstat/apa19-1if/"
+                    }
+                ]
+            },
+            "F.0a.008 Bibliothek": {
+                "name": "F.0a.008 Bibliothek",
+                "aps": [
+                    {
+                        "name": "apa12-zif",
+                        "url": "/apstat/apa12-zif/"
+                    }
+                ]
+            },
+            "F.1.023 Bibliothek": {
+                "name": "F.1.023 Bibliothek",
+                "aps": [
+                    {
+                        "name": "apa17-1if",
+                        "url": "/apstat/apa17-1if/"
+                    }
+                ]
+            }
+        }
+    },
+    "/apstat/filter/Unterbezirk/b4": {
+        "name": "TUM, Geb. 0104, (N4) Elektro Physik",
+        "address": [
+            "Theresienstraße 90",
+            "80333 München"
+        ],
+        "url": "/apstat/filter/Unterbezirk/b4",
+        "rooms": {
+            "N2405, Sem./Prüf./Bibliothek": {
+                "name": "N2405, Sem./Prüf./Bibliothek",
+                "aps": [
+                    {
+                        "name": "apa12-2b4",
+                        "url": "/apstat/apa12-2b4/"
+                    }
+                ]
+            }
+        }
+    },
+    "/apstat/filter/Unterbezirk/fs": {
+        "name": "HMTM, Musikhochschule, Hauptgebäude",
+        "address": [
+            "Arcisstr. 12",
+            "80333 München"
+        ],
+        "url": "/apstat/filter/Unterbezirk/fs",
+        "rooms": {
+            "120, Bibliothek": {
+                "name": "120, Bibliothek",
+                "aps": [
+                    {
+                        "name": "apa01-1fs",
+                        "url": "/apstat/apa01-1fs/"
+                    }
+                ]
+            }
+        }
+    },
+    "/apstat/filter/Unterbezirk/ad": {
+        "name": "TUM, Geb. 5403, Chemiegebäude Bau Ch3",
+        "address": [
+            "Lichtenbergstraße 4",
+            "85748 Garching"
+        ],
+        "url": "/apstat/filter/Unterbezirk/ad",
+        "rooms": {
+            "63107, Bibliothek": {
+                "name": "63107, Bibliothek",
+                "aps": [
+                    {
+                        "name": "apa11-6ad",
+                        "url": "/apstat/apa11-6ad/"
+                    }
+                ]
+            }
+        }
+    },
+    "/apstat/filter/Unterbezirk/qy": {
+        "name": "TUM, Geb. 4220, Bibliothek Neubau",
+        "address": [
+            "Maximus-von-Imhof-Forum 3",
+            "85354 Freising"
+        ],
+        "url": "/apstat/filter/Unterbezirk/qy",
+        "rooms": {
+            "EG R 02, Lesesaal": {
+                "name": "EG R 02, Lesesaal",
+                "aps": [
+                    {
+                        "name": "apa06-0qy",
+                        "url": "/apstat/apa06-0qy/"
+                    }
+                ]
+            },
+            "EG L 01, Cafeteria (Uni-Bar)": {
+                "name": "EG L 01, Cafeteria (Uni-Bar)",
+                "aps": [
+                    {
+                        "name": "apa10-0qy",
+                        "url": "/apstat/apa10-0qy/"
+                    }
+                ]
+            },
+            "EG R 03, Scannerraum": {
+                "name": "EG R 03, Scannerraum",
+                "aps": [
+                    {
+                        "name": "apa11-0qy",
+                        "url": "/apstat/apa11-0qy/"
+                    }
+                ]
+            },
+            "EG L 12, IT-Schulungsraum CIP-Raum": {
+                "name": "EG L 12, IT-Schulungsraum CIP-Raum",
+                "aps": [
+                    {
+                        "name": "apa09-0qy",
+                        "url": "/apstat/apa09-0qy/"
+                    }
+                ]
+            },
+            "EG R 04, Technik": {
+                "name": "EG R 04, Technik",
+                "aps": [
+                    {
+                        "name": "apa08-0qy",
+                        "url": "/apstat/apa08-0qy/"
+                    }
+                ]
+            },
+            "DG L 11, IT-Schulungsraum": {
+                "name": "DG L 11, IT-Schulungsraum",
+                "aps": [
+                    {
+                        "name": "apa04-2qy",
+                        "url": "/apstat/apa04-2qy/"
+                    }
+                ]
+            },
+            "OG L 01, Besprechungsraum": {
+                "name": "OG L 01, Besprechungsraum",
+                "aps": [
+                    {
+                        "name": "apa08-1qy",
+                        "url": "/apstat/apa08-1qy/"
+                    }
+                ]
+            },
+            "OG R 23, Lesesaal": {
+                "name": "OG R 23, Lesesaal",
+                "aps": [
+                    {
+                        "name": "apa10-1qy",
+                        "url": "/apstat/apa10-1qy/"
+                    }
+                ]
+            },
+            "OG R 16, Lesesaal": {
+                "name": "OG R 16, Lesesaal",
+                "aps": [
+                    {
+                        "name": "apa13-1qy",
+                        "url": "/apstat/apa13-1qy/"
+                    },
+                    {
+                        "name": "apa07-1qy",
+                        "url": "/apstat/apa07-1qy/"
+                    }
+                ]
+            },
+            "DG L 06, Büro": {
+                "name": "DG L 06, Büro",
+                "aps": [
+                    {
+                        "name": "apa06-2qy",
+                        "url": "/apstat/apa06-2qy/"
+                    }
+                ]
+            },
+            "OG L 19, Seminarraum (gem. Nutzung 1110100100,1110": {
+                "name": "OG L 19, Seminarraum (gem. Nutzung 1110100100,1110",
+                "aps": [
+                    {
+                        "name": "apa11-1qy",
+                        "url": "/apstat/apa11-1qy/"
+                    }
+                ]
+            },
+            "OG L 07, Büro": {
+                "name": "OG L 07, Büro",
+                "aps": [
+                    {
+                        "name": "apa12-1qy",
+                        "url": "/apstat/apa12-1qy/"
+                    }
+                ]
+            },
+            "UG L 07, Büchermagazin": {
+                "name": "UG L 07, Büchermagazin",
+                "aps": [
+                    {
+                        "name": "apa05-kqy",
+                        "url": "/apstat/apa05-kqy/"
+                    },
+                    {
+                        "name": "apa03-kqy",
+                        "url": "/apstat/apa03-kqy/"
+                    }
+                ]
+            },
+            "UG L 09, Büchermagazin": {
+                "name": "UG L 09, Büchermagazin",
+                "aps": [
+                    {
+                        "name": "apa02-kqy",
+                        "url": "/apstat/apa02-kqy/"
+                    },
+                    {
+                        "name": "apa04-kqy",
+                        "url": "/apstat/apa04-kqy/"
+                    }
+                ]
+            },
+            "EG R 12, Aufzug": {
+                "name": "EG R 12, Aufzug",
+                "aps": [
+                    {
+                        "name": "apa07-0qy",
+                        "url": "/apstat/apa07-0qy/"
+                    }
+                ]
+            },
+            "EG L 18, Büro": {
+                "name": "EG L 18, Büro",
+                "aps": [
+                    {
+                        "name": "apa02-0qy",
+                        "url": "/apstat/apa02-0qy/"
+                    }
+                ]
+            },
+            "OG L 26, Büro": {
+                "name": "OG L 26, Büro",
+                "aps": [
+                    {
+                        "name": "apa02-1qy",
+                        "url": "/apstat/apa02-1qy/"
+                    }
+                ]
+            },
+            "DG L 01, IT-Schulungsraum": {
+                "name": "DG L 01, IT-Schulungsraum",
+                "aps": [
+                    {
+                        "name": "apa05-2qy",
+                        "url": "/apstat/apa05-2qy/"
+                    }
+                ]
+            },
+            "OG R 18, Technik": {
+                "name": "OG R 18, Technik",
+                "aps": [
+                    {
+                        "name": "apa09-1qy",
+                        "url": "/apstat/apa09-1qy/"
+                    }
+                ]
+            },
+            "UG L 05, Wertstoffe/Müll": {
+                "name": "UG L 05, Wertstoffe/Müll",
+                "aps": [
+                    {
+                        "name": "apa06-kqy",
+                        "url": "/apstat/apa06-kqy/"
+                    }
+                ]
+            },
+            "UG R 04, Lager": {
+                "name": "UG R 04, Lager",
+                "aps": [
+                    {
+                        "name": "apa01-kqy",
+                        "url": "/apstat/apa01-kqy/"
+                    }
+                ]
+            }
+        }
+    },
+    "/apstat/filter/Unterbezirk/ig": {
+        "name": "LMU, Neubau Bauabschnitt 2, Biologie I, Martinsried",
+        "address": [
+            "Großhaderner Str. 2-4",
+            "82152 Planegg-Martinsried"
+        ],
+        "url": "/apstat/filter/Unterbezirk/ig",
+        "rooms": {
+            "E01.047 Bibliothek": {
+                "name": "E01.047 Bibliothek",
+                "aps": [
+                    {
+                        "name": "apa17-1ig",
+                        "url": "/apstat/apa17-1ig/"
+                    }
+                ]
+            },
+            "E00.047, Bibliothek": {
+                "name": "E00.047, Bibliothek",
+                "aps": [
+                    {
+                        "name": "apa02-0ig",
+                        "url": "/apstat/apa02-0ig/"
+                    }
+                ]
+            }
+        }
+    },
+    "/apstat/filter/Unterbezirk/da": {
+        "name": "LMU, Block A, Geb. 1003",
+        "address": [
+            "Theresienstr. 37",
+            "80333 München"
+        ],
+        "url": "/apstat/filter/Unterbezirk/da",
+        "rooms": {
+            "A106 Bibliothek": {
+                "name": "A106 Bibliothek",
+                "aps": [
+                    {
+                        "name": "apa07-1da",
+                        "url": "/apstat/apa07-1da/"
+                    },
+                    {
+                        "name": "apa09-1da",
+                        "url": "/apstat/apa09-1da/"
+                    }
+                ]
+            },
+            "B105A Bibliothek": {
+                "name": "B105A Bibliothek",
+                "aps": [
+                    {
+                        "name": "apa06-1da",
+                        "url": "/apstat/apa06-1da/"
+                    }
+                ]
+            }
+        }
+    },
+    "/apstat/filter/Unterbezirk/oz": {
+        "name": "LMU Oettingenstr. 67, Hauptgebäude",
+        "address": [
+            "Oettingenstraße 67",
+            "80538 München"
+        ],
+        "url": "/apstat/filter/Unterbezirk/oz",
+        "rooms": {
+            "L 025 Bibliothek": {
+                "name": "L 025 Bibliothek",
+                "aps": [
+                    {
+                        "name": "apa43-0oz",
+                        "url": "/apstat/apa43-0oz/"
+                    }
+                ]
+            }
+        }
+    },
+    "/apstat/filter/Unterbezirk/bm": {
+        "name": "TUM, Geb. 0509 (Stammgelände)",
+        "address": [
+            "Arcisstraße 21",
+            "80333 München"
+        ],
+        "url": "/apstat/filter/Unterbezirk/bm",
+        "rooms": {
+            "3908, Handbibliotheksraum": {
+                "name": "3908, Handbibliotheksraum",
+                "aps": [
+                    {
+                        "name": "apa09-3bm",
+                        "url": "/apstat/apa09-3bm/"
+                    }
+                ]
+            }
+        }
+    },
+    "/apstat/filter/Unterbezirk/qg": {
+        "name": "TUM, Geb. 4102, Bibliothek und Dekanatsgebäude",
+        "address": [
+            "Alte Akademie 8",
+            "85354 Freising"
+        ],
+        "url": "/apstat/filter/Unterbezirk/qg",
+        "rooms": {
+            "G4102/2.OG.Sitzungssaal": {
+                "name": "G4102/2.OG.Sitzungssaal",
+                "aps": [
+                    {
+                        "name": "apa04-2qg",
+                        "url": "/apstat/apa04-2qg/"
+                    }
+                ]
+            },
+            "G4102/1.OG 040 (f.Treppenhaus)": {
+                "name": "G4102/1.OG 040 (f.Treppenhaus)",
+                "aps": [
+                    {
+                        "name": "apa03-1qg",
+                        "url": "/apstat/apa03-1qg/"
+                    }
+                ]
+            },
+            "058 Dekanatssaal": {
+                "name": "058 Dekanatssaal",
+                "aps": [
+                    {
+                        "name": "apa03-2qg",
+                        "url": "/apstat/apa03-2qg/"
+                    }
+                ]
+            },
+            "Parkplatz Hoersaal": {
+                "name": "Parkplatz Hoersaal",
+                "aps": [
+                    {
+                        "name": "apa03-0qg",
+                        "url": "/apstat/apa03-0qg/"
+                    }
+                ]
+            },
+            "E-35, Hörsaal 2 (WZWH02)": {
+                "name": "E-35, Hörsaal 2 (WZWH02)",
+                "aps": [
+                    {
+                        "name": "apa05-0qg",
+                        "url": "/apstat/apa05-0qg/"
+                    }
+                ]
+            },
+            "E-34, Hörsaal 1 (WZWH01)": {
+                "name": "E-34, Hörsaal 1 (WZWH01)",
+                "aps": [
+                    {
+                        "name": "apa04-0qg",
+                        "url": "/apstat/apa04-0qg/"
+                    }
+                ]
+            },
+            "1-38, Seminarraum 8 (WZWS08)": {
+                "name": "1-38, Seminarraum 8 (WZWS08)",
+                "aps": [
+                    {
+                        "name": "apa04-1qg",
+                        "url": "/apstat/apa04-1qg/"
+                    }
+                ]
+            }
+        }
+    },
+    "/apstat/filter/Unterbezirk/hz": {
+        "name": "BAdW, Bau B, Akademiegebäude",
+        "address": [
+            "Alfons-Goppel-Str. 11",
+            "80539 München"
+        ],
+        "url": "/apstat/filter/Unterbezirk/hz",
+        "rooms": {
+            "133 Vorbibliothek": {
+                "name": "133 Vorbibliothek",
+                "aps": [
+                    {
+                        "name": "apa20-1hz",
+                        "url": "/apstat/apa20-1hz/"
+                    }
+                ]
+            },
+            "245 Bibliothek": {
+                "name": "245 Bibliothek",
+                "aps": [
+                    {
+                        "name": "apa02-2hz",
+                        "url": "/apstat/apa02-2hz/"
+                    },
+                    {
+                        "name": "apa07-2hz",
+                        "url": "/apstat/apa07-2hz/"
+                    }
+                ]
+            },
+            "Vorbibliothek": {
+                "name": "Vorbibliothek",
+                "aps": [
+                    {
+                        "name": "apa12-1hz",
+                        "url": "/apstat/apa12-1hz/"
+                    }
+                ]
+            },
+            "337 Bibliothek Schellingkommission": {
+                "name": "337 Bibliothek Schellingkommission",
+                "aps": [
+                    {
+                        "name": "apa05-3hz",
+                        "url": "/apstat/apa05-3hz/"
+                    }
+                ]
+            }
+        }
+    },
+    "/apstat/filter/Unterbezirk/af": {
+        "name": "TUM, Geb. 5401, Chemiegebäude Bau Ch1, Bibliothek, Hörsaal",
+        "address": [
+            "Lichtenbergstraße 4",
+            "85748 Garching"
+        ],
+        "url": "/apstat/filter/Unterbezirk/af",
+        "rooms": {
+            "21019, Rechenzentrum": {
+                "name": "21019, Rechenzentrum",
+                "aps": [
+                    {
+                        "name": "apa10-2af",
+                        "url": "/apstat/apa10-2af/"
+                    },
+                    {
+                        "name": "apa14-2af",
+                        "url": "/apstat/apa14-2af/"
+                    }
+                ]
+            },
+            "21003, Scannerraum": {
+                "name": "21003, Scannerraum",
+                "aps": [
+                    {
+                        "name": "apa13-2af",
+                        "url": "/apstat/apa13-2af/"
+                    }
+                ]
+            },
+            "11150, Lesesaal hinten": {
+                "name": "11150, Lesesaal hinten",
+                "aps": [
+                    {
+                        "name": "apa10-1af",
+                        "url": "/apstat/apa10-1af/"
+                    }
+                ]
+            },
+            "Gruenflaeche Chemie": {
+                "name": "Gruenflaeche Chemie",
+                "aps": [
+                    {
+                        "name": "apa01-0af",
+                        "url": "/apstat/apa01-0af/"
+                    },
+                    {
+                        "name": "apa02-0af",
+                        "url": "/apstat/apa02-0af/"
+                    }
+                ]
+            },
+            "HS 21010": {
+                "name": "HS 21010",
+                "aps": [
+                    {
+                        "name": "apa09-2af",
+                        "url": "/apstat/apa09-2af/"
+                    },
+                    {
+                        "name": "apa08-2af",
+                        "url": "/apstat/apa08-2af/"
+                    },
+                    {
+                        "name": "apa07-2af",
+                        "url": "/apstat/apa07-2af/"
+                    }
+                ]
+            },
+            "CH 21010, Hans-Fischer-Hörsaal links der Tafel": {
+                "name": "CH 21010, Hans-Fischer-Hörsaal links der Tafel",
+                "aps": [
+                    {
+                        "name": "apa11-2af",
+                        "url": "/apstat/apa11-2af/"
+                    }
+                ]
+            },
+            "11173, Büchermagazin": {
+                "name": "11173, Büchermagazin",
+                "aps": [
+                    {
+                        "name": "apa05-1af",
+                        "url": "/apstat/apa05-1af/"
+                    },
+                    {
+                        "name": "apa06-1af",
+                        "url": "/apstat/apa06-1af/"
+                    }
+                ]
+            },
+            "11150, Lesesaal": {
+                "name": "11150, Lesesaal",
+                "aps": [
+                    {
+                        "name": "apa09-1af",
+                        "url": "/apstat/apa09-1af/"
+                    }
+                ]
+            },
+            "CH 21010, Hans-Fischer-Hörsaal rechts der Tafel": {
+                "name": "CH 21010, Hans-Fischer-Hörsaal rechts der Tafel",
+                "aps": [
+                    {
+                        "name": "apa12-2af",
+                        "url": "/apstat/apa12-2af/"
+                    }
+                ]
+            },
+            "11110, Technikum": {
+                "name": "11110, Technikum",
+                "aps": [
+                    {
+                        "name": "apa07-1af",
+                        "url": "/apstat/apa07-1af/"
+                    },
+                    {
+                        "name": "apa08-1af",
+                        "url": "/apstat/apa08-1af/"
+                    }
+                ]
+            },
+            "11140, Lesesaal/Seminarraum": {
+                "name": "11140, Lesesaal/Seminarraum",
+                "aps": [
+                    {
+                        "name": "apa04-1af",
+                        "url": "/apstat/apa04-1af/"
+                    }
+                ]
+            }
+        }
+    },
+    "/apstat/filter/Unterbezirk/gr": {
+        "name": "LMU, Geb. 0200, Rückgebäude, Fak. für Kulturwissenschaften Bibliothek",
+        "address": [
+            "Schellingstr. 3",
+            "80799 München"
+        ],
+        "url": "/apstat/filter/Unterbezirk/gr",
+        "rooms": {
+            "RU111": {
+                "name": "RU111",
+                "aps": [
+                    {
+                        "name": "apa08-kgr",
+                        "url": "/apstat/apa08-kgr/"
+                    }
+                ]
+            },
+            "R203": {
+                "name": "R203",
+                "aps": [
+                    {
+                        "name": "apa06-2gr",
+                        "url": "/apstat/apa06-2gr/"
+                    }
+                ]
+            },
+            "R051": {
+                "name": "R051",
+                "aps": [
+                    {
+                        "name": "apa06-0gr",
+                        "url": "/apstat/apa06-0gr/"
+                    },
+                    {
+                        "name": "apa07-0gr",
+                        "url": "/apstat/apa07-0gr/"
+                    }
+                ]
+            },
+            "RU113": {
+                "name": "RU113",
+                "aps": [
+                    {
+                        "name": "apa09-kgr",
+                        "url": "/apstat/apa09-kgr/"
+                    }
+                ]
+            },
+            "RU114": {
+                "name": "RU114",
+                "aps": [
+                    {
+                        "name": "apa04-kgr",
+                        "url": "/apstat/apa04-kgr/"
+                    }
+                ]
+            },
+            "R303": {
+                "name": "R303",
+                "aps": [
+                    {
+                        "name": "apa04-3gr",
+                        "url": "/apstat/apa04-3gr/"
+                    }
+                ]
+            },
+            "R052": {
+                "name": "R052",
+                "aps": [
+                    {
+                        "name": "apa03-0gr",
+                        "url": "/apstat/apa03-0gr/"
+                    }
+                ]
+            },
+            "R301": {
+                "name": "R301",
+                "aps": [
+                    {
+                        "name": "apa01-3gr",
+                        "url": "/apstat/apa01-3gr/"
+                    }
+                ]
+            },
+            "R151": {
+                "name": "R151",
+                "aps": [
+                    {
+                        "name": "apa02-1gr",
+                        "url": "/apstat/apa02-1gr/"
+                    }
+                ]
+            },
+            "R205": {
+                "name": "R205",
+                "aps": [
+                    {
+                        "name": "apa05-2gr",
+                        "url": "/apstat/apa05-2gr/"
+                    }
+                ]
+            },
+            "RU104b": {
+                "name": "RU104b",
+                "aps": [
+                    {
+                        "name": "apa01-kgr",
+                        "url": "/apstat/apa01-kgr/"
+                    }
+                ]
+            },
+            "R201": {
+                "name": "R201",
+                "aps": [
+                    {
+                        "name": "apa07-2gr",
+                        "url": "/apstat/apa07-2gr/"
+                    }
+                ]
+            },
+            "R305": {
+                "name": "R305",
+                "aps": [
+                    {
+                        "name": "apa05-3gr",
+                        "url": "/apstat/apa05-3gr/"
+                    }
+                ]
+            },
+            "RU109": {
+                "name": "RU109",
+                "aps": [
+                    {
+                        "name": "apa07-kgr",
+                        "url": "/apstat/apa07-kgr/"
+                    }
+                ]
+            },
+            "R206": {
+                "name": "R206",
+                "aps": [
+                    {
+                        "name": "apa08-2gr",
+                        "url": "/apstat/apa08-2gr/"
+                    }
+                ]
+            },
+            "R154": {
+                "name": "R154",
+                "aps": [
+                    {
+                        "name": "apa04-1gr",
+                        "url": "/apstat/apa04-1gr/"
+                    }
+                ]
+            },
+            "R210": {
+                "name": "R210",
+                "aps": [
+                    {
+                        "name": "apa09-2gr",
+                        "url": "/apstat/apa09-2gr/"
+                    }
+                ]
+            },
+            "R054": {
+                "name": "R054",
+                "aps": [
+                    {
+                        "name": "apa05-0gr",
+                        "url": "/apstat/apa05-0gr/"
+                    }
+                ]
+            },
+            "RU106": {
+                "name": "RU106",
+                "aps": [
+                    {
+                        "name": "apa03-kgr",
+                        "url": "/apstat/apa03-kgr/"
+                    }
+                ]
+            }
+        }
+    },
+    "/apstat/filter/Unterbezirk/l3": {
+        "name": "LMU, Geb. 0601",
+        "address": [
+            "Leopoldstr. 13",
+            "80802 München"
+        ],
+        "url": "/apstat/filter/Unterbezirk/l3",
+        "rooms": {
+            "1114 Ost Studentenbibliothek": {
+                "name": "1114 Ost Studentenbibliothek",
+                "aps": [
+                    {
+                        "name": "apa04-1l3",
+                        "url": "/apstat/apa04-1l3/"
+                    }
+                ]
+            },
+            "1114 West Studentenbibliothek": {
+                "name": "1114 West Studentenbibliothek",
+                "aps": [
+                    {
+                        "name": "apa05-1l3",
+                        "url": "/apstat/apa05-1l3/"
+                    }
+                ]
+            },
+            "1001 Studentenbibliothek": {
+                "name": "1001 Studentenbibliothek",
+                "aps": [
+                    {
+                        "name": "apa02-0l3",
+                        "url": "/apstat/apa02-0l3/"
+                    }
+                ]
+            }
+        }
+    },
+    "/apstat/filter/Unterbezirk/at": {
+        "name": "TUM, Geb. 5101, Physikgebäude",
+        "address": [
+            "James-Franck-Straße 1",
+            "85748 Garching"
+        ],
+        "url": "/apstat/filter/Unterbezirk/at",
+        "rooms": {
+            "PH 3343, Handbibliothek Theorie": {
+                "name": "PH 3343, Handbibliothek Theorie",
+                "aps": [
+                    {
+                        "name": "apa33-3at",
+                        "url": "/apstat/apa33-3at/"
+                    }
+                ]
+            }
+        }
+    },
+    "/apstat/filter/Unterbezirk/na": {
+        "name": "LMU, Geb. C (früher 0802), Anatomie",
+        "address": [
+            "Veterinärstraße 13",
+            "80539 München"
+        ],
+        "url": "/apstat/filter/Unterbezirk/na",
+        "rooms": {
+            "C210 Bibliothek": {
+                "name": "C210 Bibliothek",
+                "aps": [
+                    {
+                        "name": "apa03-2na",
+                        "url": "/apstat/apa03-2na/"
+                    }
+                ]
+            }
+        }
+    },
+    "/apstat/filter/Unterbezirk/fe": {
+        "name": "LMU, Haus der Kulturen, ZIKG",
+        "address": [
+            "Katharina-von-Bora-Straße 10",
+            "80333 München"
+        ],
+        "url": "/apstat/filter/Unterbezirk/fe",
+        "rooms": {
+            "216a Bibliothek": {
+                "name": "216a Bibliothek",
+                "aps": [
+                    {
+                        "name": "apa09-2fe",
+                        "url": "/apstat/apa09-2fe/"
+                    }
+                ]
+            },
+            "246, Inst.-Bibliothek, 2.OG, LMU": {
+                "name": "246, Inst.-Bibliothek, 2.OG, LMU",
+                "aps": [
+                    {
+                        "name": "apa02-2fe",
+                        "url": "/apstat/apa02-2fe/"
+                    }
+                ]
+            }
+        }
+    },
+    "/apstat/filter/Unterbezirk/gh": {
+        "name": "LMU, Fachbibliothek Philologicum",
+        "address": [
+            "Ludwigstr. 2580539 München"
+        ],
+        "url": "/apstat/filter/Unterbezirk/gh",
+        "rooms": {
+            "412": {
+                "name": "412",
+                "aps": [
+                    {
+                        "name": "apa04-4gh",
+                        "url": "/apstat/apa04-4gh/"
+                    },
+                    {
+                        "name": "apa03-4gh",
+                        "url": "/apstat/apa03-4gh/"
+                    }
+                ]
+            },
+            "513": {
+                "name": "513",
+                "aps": [
+                    {
+                        "name": "apa04-5gh",
+                        "url": "/apstat/apa04-5gh/"
+                    }
+                ]
+            },
+            "047": {
+                "name": "047",
+                "aps": [
+                    {
+                        "name": "apa06-0gh",
+                        "url": "/apstat/apa06-0gh/"
+                    }
+                ]
+            },
+            "521": {
+                "name": "521",
+                "aps": [
+                    {
+                        "name": "apa06-5gh",
+                        "url": "/apstat/apa06-5gh/"
+                    }
+                ]
+            },
+            "240": {
+                "name": "240",
+                "aps": [
+                    {
+                        "name": "apa10-2gh",
+                        "url": "/apstat/apa10-2gh/"
+                    },
+                    {
+                        "name": "apa09-2gh",
+                        "url": "/apstat/apa09-2gh/"
+                    }
+                ]
+            },
+            "113": {
+                "name": "113",
+                "aps": [
+                    {
+                        "name": "apa07-1gh",
+                        "url": "/apstat/apa07-1gh/"
+                    },
+                    {
+                        "name": "apa03-1gh",
+                        "url": "/apstat/apa03-1gh/"
+                    },
+                    {
+                        "name": "apa04-1gh",
+                        "url": "/apstat/apa04-1gh/"
+                    },
+                    {
+                        "name": "apa05-1gh",
+                        "url": "/apstat/apa05-1gh/"
+                    },
+                    {
+                        "name": "apa06-1gh",
+                        "url": "/apstat/apa06-1gh/"
+                    },
+                    {
+                        "name": "apa08-1gh",
+                        "url": "/apstat/apa08-1gh/"
+                    }
+                ]
+            },
+            "384J": {
+                "name": "384J",
+                "aps": [
+                    {
+                        "name": "apa01-3gh",
+                        "url": "/apstat/apa01-3gh/"
+                    }
+                ]
+            },
+            "601": {
+                "name": "601",
+                "aps": [
+                    {
+                        "name": "apa02-6gh",
+                        "url": "/apstat/apa02-6gh/"
+                    },
+                    {
+                        "name": "apa01-6gh",
+                        "url": "/apstat/apa01-6gh/"
+                    }
+                ]
+            },
+            "014": {
+                "name": "014",
+                "aps": [
+                    {
+                        "name": "apa04-0gh",
+                        "url": "/apstat/apa04-0gh/"
+                    },
+                    {
+                        "name": "apa03-0gh",
+                        "url": "/apstat/apa03-0gh/"
+                    }
+                ]
+            },
+            "184R": {
+                "name": "184R",
+                "aps": [
+                    {
+                        "name": "apa02-1gh",
+                        "url": "/apstat/apa02-1gh/"
+                    }
+                ]
+            },
+            "440": {
+                "name": "440",
+                "aps": [
+                    {
+                        "name": "apa07-4gh",
+                        "url": "/apstat/apa07-4gh/"
+                    },
+                    {
+                        "name": "apa08-4gh",
+                        "url": "/apstat/apa08-4gh/"
+                    }
+                ]
+            },
+            "584J": {
+                "name": "584J",
+                "aps": [
+                    {
+                        "name": "apa01-5gh",
+                        "url": "/apstat/apa01-5gh/"
+                    }
+                ]
+            },
+            "317": {
+                "name": "317",
+                "aps": [
+                    {
+                        "name": "apa06-3gh",
+                        "url": "/apstat/apa06-3gh/"
+                    }
+                ]
+            },
+            "401": {
+                "name": "401",
+                "aps": [
+                    {
+                        "name": "apa01-4gh",
+                        "url": "/apstat/apa01-4gh/"
+                    },
+                    {
+                        "name": "apa02-4gh",
+                        "url": "/apstat/apa02-4gh/"
+                    }
+                ]
+            },
+            "214": {
+                "name": "214",
+                "aps": [
+                    {
+                        "name": "apa08-2gh",
+                        "url": "/apstat/apa08-2gh/"
+                    },
+                    {
+                        "name": "apa07-2gh",
+                        "url": "/apstat/apa07-2gh/"
+                    }
+                ]
+            },
+            "212": {
+                "name": "212",
+                "aps": [
+                    {
+                        "name": "apa04-2gh",
+                        "url": "/apstat/apa04-2gh/"
+                    },
+                    {
+                        "name": "apa03-2gh",
+                        "url": "/apstat/apa03-2gh/"
+                    }
+                ]
+            },
+            "U106": {
+                "name": "U106",
+                "aps": [
+                    {
+                        "name": "apa01-kgh",
+                        "url": "/apstat/apa01-kgh/"
+                    }
+                ]
+            },
+            "201": {
+                "name": "201",
+                "aps": [
+                    {
+                        "name": "apa02-2gh",
+                        "url": "/apstat/apa02-2gh/"
+                    },
+                    {
+                        "name": "apa01-2gh",
+                        "url": "/apstat/apa01-2gh/"
+                    }
+                ]
+            },
+            "640": {
+                "name": "640",
+                "aps": [
+                    {
+                        "name": "apa08-6gh",
+                        "url": "/apstat/apa08-6gh/"
+                    },
+                    {
+                        "name": "apa07-6gh",
+                        "url": "/apstat/apa07-6gh/"
+                    }
+                ]
+            },
+            "025": {
+                "name": "025",
+                "aps": [
+                    {
+                        "name": "apa05-0gh",
+                        "url": "/apstat/apa05-0gh/"
+                    }
+                ]
+            },
+            "584R": {
+                "name": "584R",
+                "aps": [
+                    {
+                        "name": "apa02-5gh",
+                        "url": "/apstat/apa02-5gh/"
+                    }
+                ]
+            },
+            "612": {
+                "name": "612",
+                "aps": [
+                    {
+                        "name": "apa04-6gh",
+                        "url": "/apstat/apa04-6gh/"
+                    }
+                ]
+            },
+            "004": {
+                "name": "004",
+                "aps": [
+                    {
+                        "name": "apa01-0gh",
+                        "url": "/apstat/apa01-0gh/"
+                    }
+                ]
+            },
+            "U140": {
+                "name": "U140",
+                "aps": [
+                    {
+                        "name": "apa03-kgh",
+                        "url": "/apstat/apa03-kgh/"
+                    },
+                    {
+                        "name": "apa02-kgh",
+                        "url": "/apstat/apa02-kgh/"
+                    }
+                ]
+            },
+            "529": {
+                "name": "529",
+                "aps": [
+                    {
+                        "name": "apa08-5gh",
+                        "url": "/apstat/apa08-5gh/"
+                    }
+                ]
+            },
+            "321": {
+                "name": "321",
+                "aps": [
+                    {
+                        "name": "apa07-3gh",
+                        "url": "/apstat/apa07-3gh/"
+                    }
+                ]
+            },
+            "517": {
+                "name": "517",
+                "aps": [
+                    {
+                        "name": "apa05-5gh",
+                        "url": "/apstat/apa05-5gh/"
+                    }
+                ]
+            },
+            "313": {
+                "name": "313",
+                "aps": [
+                    {
+                        "name": "apa05-3gh",
+                        "url": "/apstat/apa05-3gh/"
+                    }
+                ]
+            },
+            "013": {
+                "name": "013",
+                "aps": [
+                    {
+                        "name": "apa02-0gh",
+                        "url": "/apstat/apa02-0gh/"
+                    }
+                ]
+            },
+            "533": {
+                "name": "533",
+                "aps": [
+                    {
+                        "name": "apa03-5gh",
+                        "url": "/apstat/apa03-5gh/"
+                    }
+                ]
+            },
+            "384R": {
+                "name": "384R",
+                "aps": [
+                    {
+                        "name": "apa02-3gh",
+                        "url": "/apstat/apa02-3gh/"
+                    }
+                ]
+            },
+            "784R": {
+                "name": "784R",
+                "aps": [
+                    {
+                        "name": "apa06-7gh",
+                        "url": "/apstat/apa06-7gh/"
+                    }
+                ]
+            },
+            "184J": {
+                "name": "184J",
+                "aps": [
+                    {
+                        "name": "apa01-1gh",
+                        "url": "/apstat/apa01-1gh/"
+                    }
+                ]
+            },
+            "325": {
+                "name": "325",
+                "aps": [
+                    {
+                        "name": "apa03-3gh",
+                        "url": "/apstat/apa03-3gh/"
+                    }
+                ]
+            },
+            "329": {
+                "name": "329",
+                "aps": [
+                    {
+                        "name": "apa04-3gh",
+                        "url": "/apstat/apa04-3gh/"
+                    }
+                ]
+            },
+            "784J": {
+                "name": "784J",
+                "aps": [
+                    {
+                        "name": "apa05-7gh",
+                        "url": "/apstat/apa05-7gh/"
+                    }
+                ]
+            },
+            "525": {
+                "name": "525",
+                "aps": [
+                    {
+                        "name": "apa07-5gh",
+                        "url": "/apstat/apa07-5gh/"
+                    }
+                ]
+            }
+        }
+    },
+    "/apstat/filter/Unterbezirk/zw": {
+        "name": "TUM, Geb. 2806,  Lst. Restaurierung, Nationalmuseum, Archäologische Staatssammlung",
+        "address": [
+            "Oettingenstr. 15",
+            "80538 München"
+        ],
+        "url": "/apstat/filter/Unterbezirk/zw",
+        "rooms": {
+            "3.203, Bibliothek/Seminarraum": {
+                "name": "3.203, Bibliothek/Seminarraum",
+                "aps": [
+                    {
+                        "name": "apa01-3zw",
+                        "url": "/apstat/apa01-3zw/"
+                    }
+                ]
+            }
+        }
+    },
+    "/apstat/filter/Unterbezirk/ri": {
+        "name": "HM, Erweiterungsbau Bibliothek",
+        "address": [
+            "Lothstr. 13d",
+            "80636 München"
+        ],
+        "url": "/apstat/filter/Unterbezirk/ri",
+        "rooms": {
+            "I 1.01 Freihandmagazin": {
+                "name": "I 1.01 Freihandmagazin",
+                "aps": [
+                    {
+                        "name": "apa06-1ri",
+                        "url": "/apstat/apa06-1ri/"
+                    },
+                    {
+                        "name": "apa05-1ri",
+                        "url": "/apstat/apa05-1ri/"
+                    }
+                ]
+            },
+            "I 2.03 Schulungsraum": {
+                "name": "I 2.03 Schulungsraum",
+                "aps": [
+                    {
+                        "name": "apa04-2ri",
+                        "url": "/apstat/apa04-2ri/"
+                    }
+                ]
+            },
+            "I.0.02": {
+                "name": "I.0.02",
+                "aps": [
+                    {
+                        "name": "apa01-0ri",
+                        "url": "/apstat/apa01-0ri/"
+                    }
+                ]
+            },
+            "I 0.14": {
+                "name": "I 0.14",
+                "aps": [
+                    {
+                        "name": "apa03-0ri",
+                        "url": "/apstat/apa03-0ri/"
+                    }
+                ]
+            },
+            "I 1.03 Studentenkommunikation": {
+                "name": "I 1.03 Studentenkommunikation",
+                "aps": [
+                    {
+                        "name": "apa04-1ri",
+                        "url": "/apstat/apa04-1ri/"
+                    }
+                ]
+            },
+            "Lesehain": {
+                "name": "Lesehain",
+                "aps": [
+                    {
+                        "name": "apa02-0ri",
+                        "url": "/apstat/apa02-0ri/"
+                    }
+                ]
+            },
+            "I 3.01 Lesesaal": {
+                "name": "I 3.01 Lesesaal",
+                "aps": [
+                    {
+                        "name": "apa04-3ri",
+                        "url": "/apstat/apa04-3ri/"
+                    },
+                    {
+                        "name": "apa05-3ri",
+                        "url": "/apstat/apa05-3ri/"
+                    }
+                ]
+            },
+            "I 2.01 Freihandmagazin": {
+                "name": "I 2.01 Freihandmagazin",
+                "aps": [
+                    {
+                        "name": "apa06-2ri",
+                        "url": "/apstat/apa06-2ri/"
+                    },
+                    {
+                        "name": "apa05-2ri",
+                        "url": "/apstat/apa05-2ri/"
+                    }
+                ]
+            },
+            "I 4.02 Galerie": {
+                "name": "I 4.02 Galerie",
+                "aps": [
+                    {
+                        "name": "apa02-4ri",
+                        "url": "/apstat/apa02-4ri/"
+                    }
+                ]
+            },
+            "I 3.08 Infotheke": {
+                "name": "I 3.08 Infotheke",
+                "aps": [
+                    {
+                        "name": "apa06-3ri",
+                        "url": "/apstat/apa06-3ri/"
+                    }
+                ]
+            }
+        }
+    },
+    "/apstat/filter/Unterbezirk/vs": {
+        "name": "LMU, Schleicherbau, Geb. 4925",
+        "address": [
+            "Schönleutnerstr. 8",
+            "85764 Oberschleißheim"
+        ],
+        "url": "/apstat/filter/Unterbezirk/vs",
+        "rooms": {
+            "155 Bibliothek": {
+                "name": "155 Bibliothek",
+                "aps": [
+                    {
+                        "name": "apa03-1vs",
+                        "url": "/apstat/apa03-1vs/"
+                    }
+                ]
+            }
+        }
+    },
+    "/apstat/filter/Unterbezirk/sl": {
+        "name": "LMU, Geb. 0410, Vordergebäude",
+        "address": [
+            "Ludwigstr. 28",
+            "80539 München"
+        ],
+        "url": "/apstat/filter/Unterbezirk/sl",
+        "rooms": {
+            "301 (Bibliothek)": {
+                "name": "301 (Bibliothek)",
+                "aps": [
+                    {
+                        "name": "apa01-3sl",
+                        "url": "/apstat/apa01-3sl/"
+                    }
+                ]
+            }
+        }
+    },
+    "/apstat/filter/Unterbezirk/db": {
+        "name": "LMU, Block B, Geb. 1002",
+        "address": [
+            "Theresienstr. 39",
+            "80333 München"
+        ],
+        "url": "/apstat/filter/Unterbezirk/db",
+        "rooms": {
+            "B101A Bibliothek": {
+                "name": "B101A Bibliothek",
+                "aps": [
+                    {
+                        "name": "apa18-1db",
+                        "url": "/apstat/apa18-1db/"
+                    },
+                    {
+                        "name": "apa15-1db",
+                        "url": "/apstat/apa15-1db/"
+                    }
+                ]
+            }
+        }
+    },
+    "/apstat/filter/Unterbezirk/aq": {
+        "name": "TUM, Geb. 5107, Physik II",
+        "address": [
+            "Am Coulombwall 2",
+            "85748 Garching"
+        ],
+        "url": "/apstat/filter/Unterbezirk/aq",
+        "rooms": {
+            "111, Bibliothek": {
+                "name": "111, Bibliothek",
+                "aps": [
+                    {
+                        "name": "apa11-1aq",
+                        "url": "/apstat/apa11-1aq/"
+                    }
+                ]
+            },
+            "215, Rechnerraum u. Bibliothek": {
+                "name": "215, Rechnerraum u. Bibliothek",
+                "aps": [
+                    {
+                        "name": "apa08-2aq",
+                        "url": "/apstat/apa08-2aq/"
+                    }
+                ]
+            }
+        }
+    },
+    "/apstat/filter/Unterbezirk/sf": {
+        "name": "LMU, Vestibülbau",
+        "address": [
+            "Ludwigstr./Prof.-Huber-Pl. 2",
+            "80539 München"
+        ],
+        "url": "/apstat/filter/Unterbezirk/sf",
+        "rooms": {
+            "V213 Bibliothek": {
+                "name": "V213 Bibliothek",
+                "aps": [
+                    {
+                        "name": "apa06-2sf",
+                        "url": "/apstat/apa06-2sf/"
+                    }
+                ]
+            }
+        }
+    },
+    "/apstat/filter/Unterbezirk/gb": {
+        "name": "LMU, Geb. 0030, Hauptgebäude inkl. Turmgebäude, Bibliothek",
+        "address": [
+            "Geschwister-Scholl-Platz 1",
+            "80539 München"
+        ],
+        "url": "/apstat/filter/Unterbezirk/gb",
+        "rooms": {
+            "F201 Bibliothek": {
+                "name": "F201 Bibliothek",
+                "aps": [
+                    {
+                        "name": "apa07-2gb",
+                        "url": "/apstat/apa07-2gb/"
+                    }
+                ]
+            },
+            "F009 Büro-Campus Helpdesk": {
+                "name": "F009 Büro-Campus Helpdesk",
+                "aps": [
+                    {
+                        "name": "apa06-0gb",
+                        "url": "/apstat/apa06-0gb/"
+                    }
+                ]
+            },
+            "E341 Turmzimmer": {
+                "name": "E341 Turmzimmer",
+                "aps": [
+                    {
+                        "name": "apa03-3gb",
+                        "url": "/apstat/apa03-3gb/"
+                    }
+                ]
+            },
+            "EU114": {
+                "name": "EU114",
+                "aps": [
+                    {
+                        "name": "apa04-kgb",
+                        "url": "/apstat/apa04-kgb/"
+                    }
+                ]
+            },
+            "F012 Rechnerraum": {
+                "name": "F012 Rechnerraum",
+                "aps": [
+                    {
+                        "name": "apa07-0gb",
+                        "url": "/apstat/apa07-0gb/"
+                    }
+                ]
+            },
+            "F208 Bibliotheksraum": {
+                "name": "F208 Bibliotheksraum",
+                "aps": [
+                    {
+                        "name": "apa06-2gb",
+                        "url": "/apstat/apa06-2gb/"
+                    },
+                    {
+                        "name": "apa05-2gb",
+                        "url": "/apstat/apa05-2gb/"
+                    }
+                ]
+            },
+            "FU104": {
+                "name": "FU104",
+                "aps": [
+                    {
+                        "name": "apa03-kgb",
+                        "url": "/apstat/apa03-kgb/"
+                    }
+                ]
+            },
+            "E420 für E120 Große Aula": {
+                "name": "E420 für E120 Große Aula",
+                "aps": [
+                    {
+                        "name": "apa14-4gb",
+                        "url": "/apstat/apa14-4gb/"
+                    },
+                    {
+                        "name": "apa13-4gb",
+                        "url": "/apstat/apa13-4gb/"
+                    },
+                    {
+                        "name": "apa16-4gb",
+                        "url": "/apstat/apa16-4gb/"
+                    },
+                    {
+                        "name": "apa17-4gb",
+                        "url": "/apstat/apa17-4gb/"
+                    },
+                    {
+                        "name": "apa15-4gb",
+                        "url": "/apstat/apa15-4gb/"
+                    },
+                    {
+                        "name": "apa10-4gb",
+                        "url": "/apstat/apa10-4gb/"
+                    },
+                    {
+                        "name": "apa12-4gb",
+                        "url": "/apstat/apa12-4gb/"
+                    },
+                    {
+                        "name": "apa11-4gb",
+                        "url": "/apstat/apa11-4gb/"
+                    }
+                ]
+            },
+            "FU108A": {
+                "name": "FU108A",
+                "aps": [
+                    {
+                        "name": "apa01-kgb",
+                        "url": "/apstat/apa01-kgb/"
+                    }
+                ]
+            },
+            "F008 CIP-Pool v.Bibliothek": {
+                "name": "F008 CIP-Pool v.Bibliothek",
+                "aps": [
+                    {
+                        "name": "apa08-0gb",
+                        "url": "/apstat/apa08-0gb/"
+                    }
+                ]
+            },
+            "F401": {
+                "name": "F401",
+                "aps": [
+                    {
+                        "name": "apa09-4gb",
+                        "url": "/apstat/apa09-4gb/"
+                    }
+                ]
+            },
+            "F212, 2.OG, Stammgelände, LMU": {
+                "name": "F212, 2.OG, Stammgelände, LMU",
+                "aps": [
+                    {
+                        "name": "apa03-2gb",
+                        "url": "/apstat/apa03-2gb/"
+                    }
+                ]
+            },
+            "F324, 3.OG, Stammgelände, LMU": {
+                "name": "F324, 3.OG, Stammgelände, LMU",
+                "aps": [
+                    {
+                        "name": "apa02-3gb",
+                        "url": "/apstat/apa02-3gb/"
+                    }
+                ]
+            },
+            "F007": {
+                "name": "F007",
+                "aps": [
+                    {
+                        "name": "apa09-0gb",
+                        "url": "/apstat/apa09-0gb/"
+                    }
+                ]
+            },
+            "EU119": {
+                "name": "EU119",
+                "aps": [
+                    {
+                        "name": "apa02-kgb",
+                        "url": "/apstat/apa02-kgb/"
+                    }
+                ]
+            },
+            "F114": {
+                "name": "F114",
+                "aps": [
+                    {
+                        "name": "apa04-1gb",
+                        "url": "/apstat/apa04-1gb/"
+                    }
+                ]
+            },
+            "EU115": {
+                "name": "EU115",
+                "aps": [
+                    {
+                        "name": "apa05-kgb",
+                        "url": "/apstat/apa05-kgb/"
+                    }
+                ]
+            },
+            "F108 Bibliothek": {
+                "name": "F108 Bibliothek",
+                "aps": [
+                    {
+                        "name": "apa05-1gb",
+                        "url": "/apstat/apa05-1gb/"
+                    }
+                ]
+            },
+            "Cip Pool Bibliothek F008": {
+                "name": "Cip Pool Bibliothek F008",
+                "aps": [
+                    {
+                        "name": "apa01-0gb",
+                        "url": "/apstat/apa01-0gb/"
+                    }
+                ]
+            },
+            "LMU Stammgelände, 1.OG, Fakultätszimmer, F107": {
+                "name": "LMU Stammgelände, 1.OG, Fakultätszimmer, F107",
+                "aps": [
+                    {
+                        "name": "apa03-1gb",
+                        "url": "/apstat/apa03-1gb/"
+                    }
+                ]
+            }
+        }
+    },
+    "/apstat/filter/Unterbezirk/qe": {
+        "name": "TUM, Geb. 4101",
+        "address": [
+            "Alte Akademie 3",
+            "85354 Freising"
+        ],
+        "url": "/apstat/filter/Unterbezirk/qe",
+        "rooms": {
+            "169, Bibliothek": {
+                "name": "169, Bibliothek",
+                "aps": [
+                    {
+                        "name": "apa02-1qe",
+                        "url": "/apstat/apa02-1qe/"
+                    }
+                ]
+            }
+        }
+    },
+    "/apstat/filter/Unterbezirk/mt": {
+        "name": "UnternehmerTUM Neubau + ECM  Geb. 5433",
+        "address": [
+            "Lichtenbergstraße 6 (neben GATE)",
+            "85748 Garching"
+        ],
+        "url": "/apstat/filter/Unterbezirk/mt",
+        "rooms": {
+            "2040, Bibliothek": {
+                "name": "2040, Bibliothek",
+                "aps": [
+                    {
+                        "name": "apa27-2mt",
+                        "url": "/apstat/apa27-2mt/"
+                    }
+                ]
+            }
+        }
+    },
+    "/apstat/filter/Unterbezirk/zm": {
+        "name": "TUM, Geb. 2601-2607, Pasing",
+        "address": [
+            "Baumbachstr. 7",
+            "81245 München"
+        ],
+        "url": "/apstat/filter/Unterbezirk/zm",
+        "rooms": {
+            "G224, Bibliothek u. Arbeitsraum": {
+                "name": "G224, Bibliothek u. Arbeitsraum",
+                "aps": [
+                    {
+                        "name": "apa11-1zm",
+                        "url": "/apstat/apa11-1zm/"
+                    }
+                ]
+            }
+        }
+    },
+    "/apstat/filter/Unterbezirk/uc": {
+        "name": "TUM/WZS, Geb. 2927, Straubing Klostertrakte",
+        "address": [
+            "Petersgasse 18",
+            "94315 Straubing"
+        ],
+        "url": "/apstat/filter/Unterbezirk/uc",
+        "rooms": {
+            "00.006, Bibliothek Lesesaal 2": {
+                "name": "00.006, Bibliothek Lesesaal 2",
+                "aps": [
+                    {
+                        "name": "apa13-0uc",
+                        "url": "/apstat/apa13-0uc/"
+                    }
+                ]
+            },
+            "00.005, Bibliothek Lesesaal 1": {
+                "name": "00.005, Bibliothek Lesesaal 1",
+                "aps": [
+                    {
+                        "name": "apa12-0uc",
+                        "url": "/apstat/apa12-0uc/"
+                    }
+                ]
+            }
+        }
+    },
+    "/apstat/filter/Unterbezirk/ia": {
+        "name": "LMU, Geb. 2920, FCP-A, Genzentrum, Molekularbiologie und Biochemie",
+        "address": [
+            "Feodor-Lynen-Str. 25",
+            "81375 München"
+        ],
+        "url": "/apstat/filter/Unterbezirk/ia",
+        "rooms": {
+            "LMU Grossh., Genzentrum, EG, Bibliothek 00.74": {
+                "name": "LMU Grossh., Genzentrum, EG, Bibliothek 00.74",
+                "aps": [
+                    {
+                        "name": "apa02-0ia",
+                        "url": "/apstat/apa02-0ia/"
+                    }
+                ]
+            }
+        }
+    },
+    "/apstat/filter/Unterbezirk/be": {
+        "name": "TUM, Geb. 0504 (Stammgelände)",
+        "address": [
+            "Arcisstraße 21",
+            "80333 München"
+        ],
+        "url": "/apstat/filter/Unterbezirk/be",
+        "rooms": {
+            "2415, Bibliothek": {
+                "name": "2415, Bibliothek",
+                "aps": [
+                    {
+                        "name": "apa06-2be",
+                        "url": "/apstat/apa06-2be/"
+                    }
+                ]
+            },
+            "2418, Seminarraum/Bibliothek": {
+                "name": "2418, Seminarraum/Bibliothek",
+                "aps": [
+                    {
+                        "name": "apa02-2be",
+                        "url": "/apstat/apa02-2be/"
+                    }
+                ]
+            }
+        }
+    },
+    "/apstat/filter/Unterbezirk/la": {
+        "name": "LMU, Geb. 0602",
+        "address": [
+            "Leopoldstr. 13",
+            "80802 München"
+        ],
+        "url": "/apstat/filter/Unterbezirk/la",
+        "rooms": {
+            "2101, Lesesaal Bibliothek, 1.OG, Leopoldstr. 13": {
+                "name": "2101, Lesesaal Bibliothek, 1.OG, Leopoldstr. 13",
+                "aps": [
+                    {
+                        "name": "apa02-1la",
+                        "url": "/apstat/apa02-1la/"
+                    }
+                ]
+            },
+            "2206, Lesesaal, Bibliothek, 2.OG, LMU Leopoldstr.": {
+                "name": "2206, Lesesaal, Bibliothek, 2.OG, LMU Leopoldstr.",
+                "aps": [
+                    {
+                        "name": "apa02-2la",
+                        "url": "/apstat/apa02-2la/"
+                    }
+                ]
+            },
+            "2306, Lesesaal Bibliothek, 3.OG, LMU Leopoldstr.": {
+                "name": "2306, Lesesaal Bibliothek, 3.OG, LMU Leopoldstr.",
+                "aps": [
+                    {
+                        "name": "apa02-3la",
+                        "url": "/apstat/apa02-3la/"
+                    }
+                ]
+            },
+            "2403, Bibliothek 1.OG, im 4. Stock an Säule LEO13": {
+                "name": "2403, Bibliothek 1.OG, im 4. Stock an Säule LEO13",
+                "aps": [
+                    {
+                        "name": "apa01-4la",
+                        "url": "/apstat/apa01-4la/"
+                    }
+                ]
+            }
+        }
+    },
+    "/apstat/filter/Unterbezirk/sb": {
+        "name": "Staatsbibliothek",
+        "address": [
+            "Ludwigstr.16",
+            "80539 München"
+        ],
+        "url": "/apstat/filter/Unterbezirk/sb",
+        "rooms": {
+            "124": {
+                "name": "124",
+                "aps": [
+                    {
+                        "name": "apa29-1sb",
+                        "url": "/apstat/apa29-1sb/"
+                    }
+                ]
+            },
+            "O-07 Quartkatalog": {
+                "name": "O-07 Quartkatalog",
+                "aps": [
+                    {
+                        "name": "apa08-0sb",
+                        "url": "/apstat/apa08-0sb/"
+                    }
+                ]
+            },
+            "Lesesaal West 121": {
+                "name": "Lesesaal West 121",
+                "aps": [
+                    {
+                        "name": "apa28-1sb",
+                        "url": "/apstat/apa28-1sb/"
+                    }
+                ]
+            },
+            "Plaza": {
+                "name": "Plaza",
+                "aps": [
+                    {
+                        "name": "apa12-0sb",
+                        "url": "/apstat/apa12-0sb/"
+                    },
+                    {
+                        "name": "apa07-0sb",
+                        "url": "/apstat/apa07-0sb/"
+                    }
+                ]
+            },
+            "Treppe, zu 116": {
+                "name": "Treppe, zu 116",
+                "aps": [
+                    {
+                        "name": "apa27-1sb",
+                        "url": "/apstat/apa27-1sb/"
+                    }
+                ]
+            },
+            "Kaulbachstr. 11 Raum 002": {
+                "name": "Kaulbachstr. 11 Raum 002",
+                "aps": [
+                    {
+                        "name": "apa15-0sb",
+                        "url": "/apstat/apa15-0sb/"
+                    }
+                ]
+            },
+            "73": {
+                "name": "73",
+                "aps": [
+                    {
+                        "name": "apa11-0sb",
+                        "url": "/apstat/apa11-0sb/"
+                    },
+                    {
+                        "name": "apa10-0sb",
+                        "url": "/apstat/apa10-0sb/"
+                    }
+                ]
+            },
+            "O-V-201": {
+                "name": "O-V-201",
+                "aps": [
+                    {
+                        "name": "apa01-2sb",
+                        "url": "/apstat/apa01-2sb/"
+                    }
+                ]
+            },
+            "Treppe, 129a links": {
+                "name": "Treppe, 129a links",
+                "aps": [
+                    {
+                        "name": "apa26-1sb",
+                        "url": "/apstat/apa26-1sb/"
+                    }
+                ]
+            },
+            "Z/IDB": {
+                "name": "Z/IDB",
+                "aps": [
+                    {
+                        "name": "apa06-0sb",
+                        "url": "/apstat/apa06-0sb/"
+                    }
+                ]
+            },
+            "405": {
+                "name": "405",
+                "aps": [
+                    {
+                        "name": "apa01-4sb",
+                        "url": "/apstat/apa01-4sb/"
+                    }
+                ]
+            },
+            "vor 203 Kaulbach 11": {
+                "name": "vor 203 Kaulbach 11",
+                "aps": [
+                    {
+                        "name": "apa09-2sb",
+                        "url": "/apstat/apa09-2sb/"
+                    }
+                ]
+            },
+            "Magazin X-3/2 u. X-3/4, EG, MGH in BSB": {
+                "name": "Magazin X-3/2 u. X-3/4, EG, MGH in BSB",
+                "aps": [
+                    {
+                        "name": "apa02-0sb",
+                        "url": "/apstat/apa02-0sb/"
+                    }
+                ]
+            },
+            "O-134, 1.OG, Bay. Staatsbibliothek": {
+                "name": "O-134, 1.OG, Bay. Staatsbibliothek",
+                "aps": [
+                    {
+                        "name": "apa15-1sb",
+                        "url": "/apstat/apa15-1sb/"
+                    }
+                ]
+            },
+            "Eingangshalle bei Pforte, EG, BSB": {
+                "name": "Eingangshalle bei Pforte, EG, BSB",
+                "aps": [
+                    {
+                        "name": "apa04-0sb",
+                        "url": "/apstat/apa04-0sb/"
+                    }
+                ]
+            },
+            "Magazin X-3/1 u. X-3/3, EG, MGH in BSB": {
+                "name": "Magazin X-3/1 u. X-3/3, EG, MGH in BSB",
+                "aps": [
+                    {
+                        "name": "apa03-0sb",
+                        "url": "/apstat/apa03-0sb/"
+                    }
+                ]
+            },
+            "W-XV129, Fürstensaal, 1.OG, BSB": {
+                "name": "W-XV129, Fürstensaal, 1.OG, BSB",
+                "aps": [
+                    {
+                        "name": "apa16-1sb",
+                        "url": "/apstat/apa16-1sb/"
+                    }
+                ]
+            },
+            "Treppe, 129a rechts": {
+                "name": "Treppe, 129a rechts",
+                "aps": [
+                    {
+                        "name": "apa25-1sb",
+                        "url": "/apstat/apa25-1sb/"
+                    }
+                ]
+            },
+            "211, Aventinus-Lesesaal, 2. Stock": {
+                "name": "211, Aventinus-Lesesaal, 2. Stock",
+                "aps": [
+                    {
+                        "name": "apa02-2sb",
+                        "url": "/apstat/apa02-2sb/"
+                    }
+                ]
+            },
+            "Lesesaal der MGH, EG, Bay. Staatsbibliothek": {
+                "name": "Lesesaal der MGH, EG, Bay. Staatsbibliothek",
+                "aps": [
+                    {
+                        "name": "apa01-0sb",
+                        "url": "/apstat/apa01-0sb/"
+                    }
+                ]
+            },
+            "303, Lesesaal Ostlesesaal, 3. Stock": {
+                "name": "303, Lesesaal Ostlesesaal, 3. Stock",
+                "aps": [
+                    {
+                        "name": "apa01-3sb",
+                        "url": "/apstat/apa01-3sb/"
+                    }
+                ]
+            },
+            "Lesesaal Musik, 1.OG, Bayerische Staatsbibliothek": {
+                "name": "Lesesaal Musik, 1.OG, Bayerische Staatsbibliothek",
+                "aps": [
+                    {
+                        "name": "apa03-1sb",
+                        "url": "/apstat/apa03-1sb/"
+                    }
+                ]
+            },
+            "O-V-208, 2.OG, BSB": {
+                "name": "O-V-208, 2.OG, BSB",
+                "aps": [
+                    {
+                        "name": "apa05-2sb",
+                        "url": "/apstat/apa05-2sb/"
+                    }
+                ]
+            },
+            "O-206/4, 2.OG, Bay. Staatsbibliothek": {
+                "name": "O-206/4, 2.OG, Bay. Staatsbibliothek",
+                "aps": [
+                    {
+                        "name": "apa04-2sb",
+                        "url": "/apstat/apa04-2sb/"
+                    }
+                ]
+            },
+            "O-X-9, Ortsleihe, EG, BSB": {
+                "name": "O-X-9, Ortsleihe, EG, BSB",
+                "aps": [
+                    {
+                        "name": "apa05-0sb",
+                        "url": "/apstat/apa05-0sb/"
+                    }
+                ]
+            },
+            "O-V-107, 1.OG, Bay. Staatsbibliothek": {
+                "name": "O-V-107, 1.OG, Bay. Staatsbibliothek",
+                "aps": [
+                    {
+                        "name": "apa12-1sb",
+                        "url": "/apstat/apa12-1sb/"
+                    }
+                ]
+            },
+            "Zimmer 091": {
+                "name": "Zimmer 091",
+                "aps": [
+                    {
+                        "name": "apa09-0sb",
+                        "url": "/apstat/apa09-0sb/"
+                    }
+                ]
+            },
+            "U22a, Zeitschriftenlesesaal hinten, UG": {
+                "name": "U22a, Zeitschriftenlesesaal hinten, UG",
+                "aps": [
+                    {
+                        "name": "apa01-ksb",
+                        "url": "/apstat/apa01-ksb/"
+                    }
+                ]
+            },
+            "209d": {
+                "name": "209d",
+                "aps": [
+                    {
+                        "name": "apa08-2sb",
+                        "url": "/apstat/apa08-2sb/"
+                    }
+                ]
+            },
+            "Direktionsbüro 115": {
+                "name": "Direktionsbüro 115",
+                "aps": [
+                    {
+                        "name": "apa24-1sb",
+                        "url": "/apstat/apa24-1sb/"
+                    }
+                ]
+            },
+            "LUDW16/1.OG. Lesesaal Lesekabine 11-22": {
+                "name": "LUDW16/1.OG. Lesesaal Lesekabine 11-22",
+                "aps": [
+                    {
+                        "name": "apa33-1sb",
+                        "url": "/apstat/apa33-1sb/"
+                    }
+                ]
+            },
+            "Kaulbachstr. 11 vor Raum 108": {
+                "name": "Kaulbachstr. 11 vor Raum 108",
+                "aps": [
+                    {
+                        "name": "apa38-1sb",
+                        "url": "/apstat/apa38-1sb/"
+                    }
+                ]
+            },
+            "Kaulbachstr. 11 ZA Besprechung 2. OG": {
+                "name": "Kaulbachstr. 11 ZA Besprechung 2. OG",
+                "aps": [
+                    {
+                        "name": "apa10-2sb",
+                        "url": "/apstat/apa10-2sb/"
+                    }
+                ]
+            },
+            "LUDW16/1.OG-Lesesaal Nordseite": {
+                "name": "LUDW16/1.OG-Lesesaal Nordseite",
+                "aps": [
+                    {
+                        "name": "apa31-1sb",
+                        "url": "/apstat/apa31-1sb/"
+                    },
+                    {
+                        "name": "apa40-1sb",
+                        "url": "/apstat/apa40-1sb/"
+                    },
+                    {
+                        "name": "apa39-1sb",
+                        "url": "/apstat/apa39-1sb/"
+                    }
+                ]
+            },
+            "LUDW16/1.OG Lesesaal mitte -Staatsbibliothek": {
+                "name": "LUDW16/1.OG Lesesaal mitte -Staatsbibliothek",
+                "aps": [
+                    {
+                        "name": "apa41-1sb",
+                        "url": "/apstat/apa41-1sb/"
+                    },
+                    {
+                        "name": "apa34-1sb",
+                        "url": "/apstat/apa34-1sb/"
+                    }
+                ]
+            },
+            "O-V-100, 1.OG, Bay. Staatsbibliothek": {
+                "name": "O-V-100, 1.OG, Bay. Staatsbibliothek",
+                "aps": [
+                    {
+                        "name": "apa11-1sb",
+                        "url": "/apstat/apa11-1sb/"
+                    }
+                ]
+            },
+            "Cafeteria, UG, BSB München": {
+                "name": "Cafeteria, UG, BSB München",
+                "aps": [
+                    {
+                        "name": "apa05-ksb",
+                        "url": "/apstat/apa05-ksb/"
+                    }
+                ]
+            },
+            "LUDW16/1.OG Lesesaal Fenster Ostseite (hinten)": {
+                "name": "LUDW16/1.OG Lesesaal Fenster Ostseite (hinten)",
+                "aps": [
+                    {
+                        "name": "apa36-1sb",
+                        "url": "/apstat/apa36-1sb/"
+                    },
+                    {
+                        "name": "apa42-1sb",
+                        "url": "/apstat/apa42-1sb/"
+                    }
+                ]
+            },
+            "O-U14 Restaurierung": {
+                "name": "O-U14 Restaurierung",
+                "aps": [
+                    {
+                        "name": "apa10-ksb",
+                        "url": "/apstat/apa10-ksb/"
+                    }
+                ]
+            },
+            "O-V-113, 1.OG, Bay. Staatsbibliothek": {
+                "name": "O-V-113, 1.OG, Bay. Staatsbibliothek",
+                "aps": [
+                    {
+                        "name": "apa14-1sb",
+                        "url": "/apstat/apa14-1sb/"
+                    }
+                ]
+            },
+            "O-V-108, 1.OG, Bay. Staatsbibliothek": {
+                "name": "O-V-108, 1.OG, Bay. Staatsbibliothek",
+                "aps": [
+                    {
+                        "name": "apa13-1sb",
+                        "url": "/apstat/apa13-1sb/"
+                    }
+                ]
+            },
+            "O-U13, UG, Restaurierung": {
+                "name": "O-U13, UG, Restaurierung",
+                "aps": [
+                    {
+                        "name": "apa06-ksb",
+                        "url": "/apstat/apa06-ksb/"
+                    }
+                ]
+            },
+            "U22a, Zeitschriftenlesesaal vorne, UG": {
+                "name": "U22a, Zeitschriftenlesesaal vorne, UG",
+                "aps": [
+                    {
+                        "name": "apa02-ksb",
+                        "url": "/apstat/apa02-ksb/"
+                    }
+                ]
+            },
+            "O-205": {
+                "name": "O-205",
+                "aps": [
+                    {
+                        "name": "apa07-2sb",
+                        "url": "/apstat/apa07-2sb/"
+                    }
+                ]
+            },
+            "119d, Lesesaal": {
+                "name": "119d, Lesesaal",
+                "aps": [
+                    {
+                        "name": "apa37-1sb",
+                        "url": "/apstat/apa37-1sb/"
+                    }
+                ]
+            },
+            "LUDW16/1.OG E-XV-119a Lesesaal BSB-Lesekabine": {
+                "name": "LUDW16/1.OG E-XV-119a Lesesaal BSB-Lesekabine",
+                "aps": [
+                    {
+                        "name": "apa32-1sb",
+                        "url": "/apstat/apa32-1sb/"
+                    },
+                    {
+                        "name": "apa43-1sb",
+                        "url": "/apstat/apa43-1sb/"
+                    }
+                ]
+            },
+            "LUDW16/1.OG Marmorsaal BSB": {
+                "name": "LUDW16/1.OG Marmorsaal BSB",
+                "aps": [
+                    {
+                        "name": "apa35-1sb",
+                        "url": "/apstat/apa35-1sb/"
+                    }
+                ]
+            },
+            "LUDW16/1.OG.E-XV-119a Lesesaal hinten": {
+                "name": "LUDW16/1.OG.E-XV-119a Lesesaal hinten",
+                "aps": [
+                    {
+                        "name": "apa30-1sb",
+                        "url": "/apstat/apa30-1sb/"
+                    }
+                ]
+            },
+            "E-U35": {
+                "name": "E-U35",
+                "aps": [
+                    {
+                        "name": "apa09-ksb",
+                        "url": "/apstat/apa09-ksb/"
+                    }
+                ]
+            },
+            "Lesesaal Handschriften, 1.OG, Bay. Staatsbibl.": {
+                "name": "Lesesaal Handschriften, 1.OG, Bay. Staatsbibl.",
+                "aps": [
+                    {
+                        "name": "apa06-1sb",
+                        "url": "/apstat/apa06-1sb/"
+                    }
+                ]
+            },
+            "U42a": {
+                "name": "U42a",
+                "aps": [
+                    {
+                        "name": "apa03-ksb",
+                        "url": "/apstat/apa03-ksb/"
+                    }
+                ]
+            }
+        }
+    },
+    "/apstat/filter/Unterbezirk/go": {
+        "name": "LMU, Geb. 0121, Vorder- und Rückgebäude, Philosophie",
+        "address": [
+            "Ludwigstr. 31",
+            "80539 München"
+        ],
+        "url": "/apstat/filter/Unterbezirk/go",
+        "rooms": {
+            "325 Bibliothek": {
+                "name": "325 Bibliothek",
+                "aps": [
+                    {
+                        "name": "apa01-3go",
+                        "url": "/apstat/apa01-3go/"
+                    }
+                ]
+            }
+        }
+    },
+    "/apstat/filter/Unterbezirk/gz": {
+        "name": "LMU, Geb. 0000Z, Hauptgebäude, Telefonzentrale",
+        "address": [
+            "Geschwister-Scholl-Platz 1",
+            "80539 München"
+        ],
+        "url": "/apstat/filter/Unterbezirk/gz",
+        "rooms": {
+            "E319, Bibliothek": {
+                "name": "E319, Bibliothek",
+                "aps": [
+                    {
+                        "name": "apa04-3gz",
+                        "url": "/apstat/apa04-3gz/"
+                    }
+                ]
+            }
+        }
+    },
+    "/apstat/filter/Unterbezirk/sx": {
+        "name": "Bayerische Staatsbibliothek",
+        "address": [
+            "Kaulbachstr. 19",
+            "80539 München"
+        ],
+        "url": "/apstat/filter/Unterbezirk/sx",
+        "rooms": {
+            "102": {
+                "name": "102",
+                "aps": [
+                    {
+                        "name": "apa02-1sx",
+                        "url": "/apstat/apa02-1sx/"
+                    }
+                ]
+            },
+            "108": {
+                "name": "108",
+                "aps": [
+                    {
+                        "name": "apa03-1sx",
+                        "url": "/apstat/apa03-1sx/"
+                    }
+                ]
+            },
+            "206": {
+                "name": "206",
+                "aps": [
+                    {
+                        "name": "apa01-2sx",
+                        "url": "/apstat/apa01-2sx/"
+                    }
+                ]
+            },
+            "Raum 311": {
+                "name": "Raum 311",
+                "aps": [
+                    {
+                        "name": "apa01-3sx",
+                        "url": "/apstat/apa01-3sx/"
+                    }
+                ]
+            },
+            "Kaulbachstr 19, EG": {
+                "name": "Kaulbachstr 19, EG",
+                "aps": [
+                    {
+                        "name": "apa01-0sx",
+                        "url": "/apstat/apa01-0sx/"
+                    }
+                ]
+            }
+        }
+    },
+    "/apstat/filter/Unterbezirk/yo": {
+        "name": "TUM, Geb.3101-3121, Versuchsanstalt für Wasserbau Obernach",
+        "address": [
+            "Obernach 15",
+            "82432 Walchensee (Obernach)"
+        ],
+        "url": "/apstat/filter/Unterbezirk/yo",
+        "rooms": {
+            "Bibliothek": {
+                "name": "Bibliothek",
+                "aps": [
+                    {
+                        "name": "apa15-0yo",
+                        "url": "/apstat/apa15-0yo/"
+                    }
+                ]
+            }
+        }
+    },
+    "/apstat/filter/Unterbezirk/w5": {
+        "name": "TUM, Geb. 5500 (Bauteil 5 ~5505), Maschinenwesen",
+        "address": [
+            "Boltzmannstraße 15",
+            "85748 Garching"
+        ],
+        "url": "/apstat/filter/Unterbezirk/w5",
+        "rooms": {
+            "0533, Bibliothek für Magistrale": {
+                "name": "0533, Bibliothek für Magistrale",
+                "aps": [
+                    {
+                        "name": "apa05-0w5",
+                        "url": "/apstat/apa05-0w5/"
+                    }
+                ]
+            },
+            "0533, Bibliothek": {
+                "name": "0533, Bibliothek",
+                "aps": [
+                    {
+                        "name": "apa16-0w5",
+                        "url": "/apstat/apa16-0w5/"
+                    }
+                ]
+            }
+        }
+    },
+    "/apstat/filter/Unterbezirk/aw": {
+        "name": "TUM, Geb. 5111, Siedlungswasserwirtschaft",
+        "address": [
+            "Am Coulombwall 3",
+            "85748 Garching"
+        ],
+        "url": "/apstat/filter/Unterbezirk/aw",
+        "rooms": {
+            "-1102A, Bibliothek": {
+                "name": "-1102A, Bibliothek",
+                "aps": [
+                    {
+                        "name": "apa01-kaw",
+                        "url": "/apstat/apa01-kaw/"
+                    }
+                ]
+            }
+        }
+    },
+    "/apstat/filter/Unterbezirk/xf": {
+        "name": "Landesfachstelle für das öffentliche Bibliothekswesen",
+        "address": [
+            "Praterstraße 16",
+            "90429 Nürnberg"
+        ],
+        "url": "/apstat/filter/Unterbezirk/xf",
+        "rooms": {
+            "Landesfachstelle oeffentliche Bibliothekswesen": {
+                "name": "Landesfachstelle oeffentliche Bibliothekswesen",
+                "aps": [
+                    {
+                        "name": "apa01-1xf",
+                        "url": "/apstat/apa01-1xf/"
+                    }
+                ]
+            },
+            "Landesfachstelle für das öffentliche Bibliothekswesen": {
+                "name": "Landesfachstelle für das öffentliche Bibliothekswesen",
+                "aps": [
+                    {
+                        "name": "apa01-0xf",
+                        "url": "/apstat/apa01-0xf/"
+                    }
+                ]
+            }
+        }
+    },
+    "/apstat/filter/Unterbezirk/q8": {
+        "name": "TUM, Geb. 4212, Physik, Chemie, Zentrallaboratorium",
+        "address": [
+            "Emil-Erlenmeyer-Forum 5",
+            "85354 Freising"
+        ],
+        "url": "/apstat/filter/Unterbezirk/q8",
+        "rooms": {
+            "059, Bibliothek": {
+                "name": "059, Bibliothek",
+                "aps": [
+                    {
+                        "name": "apa10-0q8",
+                        "url": "/apstat/apa10-0q8/"
+                    }
+                ]
+            }
+        }
+    },
+    "/apstat/filter/Unterbezirk/fv": {
+        "name": "Institut für Volkskunde",
+        "address": [
+            "Barer Str. 1380333 München"
+        ],
+        "url": "/apstat/filter/Unterbezirk/fv",
+        "rooms": {
+            "Bibliothek": {
+                "name": "Bibliothek",
+                "aps": [
+                    {
+                        "name": "apa02-0fv",
+                        "url": "/apstat/apa02-0fv/"
+                    }
+                ]
+            }
+        }
+    },
+    "/apstat/filter/Unterbezirk/q5": {
+        "name": "TUM, Geb. 4107, Ernährungslehre",
+        "address": [
+            "Alte Akademie 16",
+            "85354 Freising"
+        ],
+        "url": "/apstat/filter/Unterbezirk/q5",
+        "rooms": {
+            "O 10A, Bibliotheksräume allgemein": {
+                "name": "O 10A, Bibliotheksräume allgemein",
+                "aps": [
+                    {
+                        "name": "apa04-1q5",
+                        "url": "/apstat/apa04-1q5/"
+                    }
+                ]
+            }
+        }
+    },
+    "/apstat/filter/Unterbezirk/rh": {
+        "name": "HM, Gebäude H, Bibliothek",
+        "address": [
+            "Lothstr. 13d",
+            "80335 München"
+        ],
+        "url": "/apstat/filter/Unterbezirk/rh",
+        "rooms": {
+            "H 2.24 Büro": {
+                "name": "H 2.24 Büro",
+                "aps": [
+                    {
+                        "name": "apa10-2rh",
+                        "url": "/apstat/apa10-2rh/"
+                    }
+                ]
+            },
+            "2.04, Lesesaal Mitte, 2.OG, Lothstr. 13, HM": {
+                "name": "2.04, Lesesaal Mitte, 2.OG, Lothstr. 13, HM",
+                "aps": [
+                    {
+                        "name": "apa05-2rh",
+                        "url": "/apstat/apa05-2rh/"
+                    }
+                ]
+            },
+            "4.04, Lesesaal (beim Lift), 4.OG, Lothstr. 13": {
+                "name": "4.04, Lesesaal (beim Lift), 4.OG, Lothstr. 13",
+                "aps": [
+                    {
+                        "name": "apa02-4rh",
+                        "url": "/apstat/apa02-4rh/"
+                    }
+                ]
+            },
+            "H 2.15.2 Büro": {
+                "name": "H 2.15.2 Büro",
+                "aps": [
+                    {
+                        "name": "apa08-2rh",
+                        "url": "/apstat/apa08-2rh/"
+                    }
+                ]
+            },
+            "3.01, Bibliothek Treppe Nord, Lothstr. 13, 3.OG": {
+                "name": "3.01, Bibliothek Treppe Nord, Lothstr. 13, 3.OG",
+                "aps": [
+                    {
+                        "name": "apa05-3rh",
+                        "url": "/apstat/apa05-3rh/"
+                    }
+                ]
+            },
+            "H.207, 2.OG, Bau H, Lothstr. 13, HM": {
+                "name": "H.207, 2.OG, Bau H, Lothstr. 13, HM",
+                "aps": [
+                    {
+                        "name": "apa06-2rh",
+                        "url": "/apstat/apa06-2rh/"
+                    }
+                ]
+            },
+            "3.01, Bibliothek Nordost, 3.OG, Lothstr. 13": {
+                "name": "3.01, Bibliothek Nordost, 3.OG, Lothstr. 13",
+                "aps": [
+                    {
+                        "name": "apa04-3rh",
+                        "url": "/apstat/apa04-3rh/"
+                    }
+                ]
+            },
+            "Mensa, 1.OG": {
+                "name": "Mensa, 1.OG",
+                "aps": [
+                    {
+                        "name": "apa03-1rh",
+                        "url": "/apstat/apa03-1rh/"
+                    }
+                ]
+            },
+            "Lesesaal, Bibliothek 2.OG, Lothstr. 13, HM": {
+                "name": "Lesesaal, Bibliothek 2.OG, Lothstr. 13, HM",
+                "aps": [
+                    {
+                        "name": "apa07-2rh",
+                        "url": "/apstat/apa07-2rh/"
+                    }
+                ]
+            },
+            "Mensa Sued": {
+                "name": "Mensa Sued",
+                "aps": [
+                    {
+                        "name": "apa06-0rh",
+                        "url": "/apstat/apa06-0rh/"
+                    }
+                ]
+            },
+            "HM Lothst. 13, Mensa EG": {
+                "name": "HM Lothst. 13, Mensa EG",
+                "aps": [
+                    {
+                        "name": "apa05-0rh",
+                        "url": "/apstat/apa05-0rh/"
+                    }
+                ]
+            },
+            "H 2.19 Büro": {
+                "name": "H 2.19 Büro",
+                "aps": [
+                    {
+                        "name": "apa09-2rh",
+                        "url": "/apstat/apa09-2rh/"
+                    }
+                ]
+            },
+            "HM Lothstr. 13d, Lernzentrum H 0.30": {
+                "name": "HM Lothstr. 13d, Lernzentrum H 0.30",
+                "aps": [
+                    {
+                        "name": "apa07-0rh",
+                        "url": "/apstat/apa07-0rh/"
+                    }
+                ]
+            },
+            "H Mensa West": {
+                "name": "H Mensa West",
+                "aps": [
+                    {
+                        "name": "apa02-1rh",
+                        "url": "/apstat/apa02-1rh/"
+                    }
+                ]
+            },
+            "H 0.06c": {
+                "name": "H 0.06c",
+                "aps": [
+                    {
+                        "name": "apa04-0rh",
+                        "url": "/apstat/apa04-0rh/"
+                    }
+                ]
+            },
+            "H 2.10 Büro": {
+                "name": "H 2.10 Büro",
+                "aps": [
+                    {
+                        "name": "apa11-2rh",
+                        "url": "/apstat/apa11-2rh/"
+                    }
+                ]
+            },
+            "3.01, Bibliothek Süd, 3.OG, Lothstr. 13, HM": {
+                "name": "3.01, Bibliothek Süd, 3.OG, Lothstr. 13, HM",
+                "aps": [
+                    {
+                        "name": "apa06-3rh",
+                        "url": "/apstat/apa06-3rh/"
+                    }
+                ]
+            }
+        }
+    },
+    "/apstat/filter/Unterbezirk/yf": {
+        "name": "BSB Landesfachstelle  für das öffentliche Bibliothekswesen Außenstelle Würzburg",
+        "address": [
+            "Ludwigkai 4",
+            "97072 Würzburg"
+        ],
+        "url": "/apstat/filter/Unterbezirk/yf",
+        "rooms": {
+            "Landesfachstelle Wuerzburg, EG": {
+                "name": "Landesfachstelle Wuerzburg, EG",
+                "aps": [
+                    {
+                        "name": "apa01-0yf",
+                        "url": "/apstat/apa01-0yf/"
+                    }
+                ]
+            }
+        }
+    },
+    "/apstat/filter/Unterbezirk/gj": {
+        "name": "LMU, Schellingstr. 5",
+        "address": [
+            "Schellingstr. 5",
+            "80799 München"
+        ],
+        "url": "/apstat/filter/Unterbezirk/gj",
+        "rooms": {
+            "307 Bibliothek": {
+                "name": "307 Bibliothek",
+                "aps": [
+                    {
+                        "name": "apa03-3gj",
+                        "url": "/apstat/apa03-3gj/"
+                    }
+                ]
+            }
+        }
+    },
+    "/apstat/filter/Unterbezirk/px": {
+        "name": "HSWT, Geb. 4174, Bibliothek (A8)",
+        "address": [
+            "Weihenstephaner Fußweg 1",
+            "85354 Freising"
+        ],
+        "url": "/apstat/filter/Unterbezirk/px",
+        "rooms": {
+            "A8.208 Bibliothek": {
+                "name": "A8.208 Bibliothek",
+                "aps": [
+                    {
+                        "name": "apa01-0px",
+                        "url": "/apstat/apa01-0px/"
+                    },
+                    {
+                        "name": "apa02-0px",
+                        "url": "/apstat/apa02-0px/"
+                    }
+                ]
+            }
+        }
+    },
+    "/apstat/filter/Unterbezirk/z1": {
+        "name": "SWH Studentenstadt Freimann",
+        "address": [
+            "Christoph-Probst-Str. 10",
+            "80805 München"
+        ],
+        "url": "/apstat/filter/Unterbezirk/z1",
+        "rooms": {
+            "Bibliothek, EG, Christof-Probst-Str. 10, Stud.st.": {
+                "name": "Bibliothek, EG, Christof-Probst-Str. 10, Stud.st.",
+                "aps": [
+                    {
+                        "name": "apa01-0z1",
+                        "url": "/apstat/apa01-0z1/"
+                    }
+                ]
+            }
+        }
+    },
+    "/apstat/filter/Unterbezirk/lz": {
+        "name": "Staatsbibliothek",
+        "address": [
+            "Leopoldstraße 240",
+            "80807 München"
+        ],
+        "url": "/apstat/filter/Unterbezirk/lz",
+        "rooms": {
+            "Flur vor Büro 5": {
+                "name": "Flur vor Büro 5",
+                "aps": [
+                    {
+                        "name": "apa02-1lz",
+                        "url": "/apstat/apa02-1lz/"
+                    }
+                ]
+            },
+            "Flur vor Büro 9": {
+                "name": "Flur vor Büro 9",
+                "aps": [
+                    {
+                        "name": "apa01-1lz",
+                        "url": "/apstat/apa01-1lz/"
+                    },
+                    {
+                        "name": "apa02-3lz",
+                        "url": "/apstat/apa02-3lz/"
+                    }
+                ]
+            },
+            "Flur vor Büro 3": {
+                "name": "Flur vor Büro 3",
+                "aps": [
+                    {
+                        "name": "apa01-3lz",
+                        "url": "/apstat/apa01-3lz/"
+                    }
+                ]
+            }
+        }
+    },
+    "/apstat/filter/Unterbezirk/wy": {
+        "name": "TUM, Geb. 5160, UCN-Testanlage (Tritron Hütte)",
+        "address": [
+            "Am Coulombwall 6",
+            "85748 Garching"
+        ],
+        "url": "/apstat/filter/Unterbezirk/wy",
+        "rooms": {
+            "Bibliothek, EG": {
+                "name": "Bibliothek, EG",
+                "aps": [
+                    {
+                        "name": "apa01-0wy",
+                        "url": "/apstat/apa01-0wy/"
+                    }
+                ]
+            }
+        }
+    },
+    "/apstat/filter/Unterbezirk/sy": {
+        "name": "Hochschule für Philosophie, Institut für Gesellschaftspolitik",
+        "address": [
+            "Kaulbachstr. 31",
+            "80539 München"
+        ],
+        "url": "/apstat/filter/Unterbezirk/sy",
+        "rooms": {
+            "Bibliothek 1.OG": {
+                "name": "Bibliothek 1.OG",
+                "aps": [
+                    {
+                        "name": "apa05-1sy",
+                        "url": "/apstat/apa05-1sy/"
+                    }
+                ]
+            }
+        }
+    },
+    "/apstat/filter/Unterbezirk/so": {
+        "name": "LMU, Ostasieninstitut",
+        "address": [
+            "Kaulbachstr. 53",
+            "80539 München"
+        ],
+        "url": "/apstat/filter/Unterbezirk/so",
+        "rooms": {
+            "Bibliothek, EG": {
+                "name": "Bibliothek, EG",
+                "aps": [
+                    {
+                        "name": "apa01-0so",
+                        "url": "/apstat/apa01-0so/"
+                    }
+                ]
+            }
+        }
+    },
+    "/apstat/filter/Unterbezirk/zz": {
+        "name": "SNSB, ZSM, Zoologische Staatssammlung",
+        "address": [
+            "Münchhausenstr. 21",
+            "81247 München"
+        ],
+        "url": "/apstat/filter/Unterbezirk/zz",
+        "rooms": {
+            "C203, Bibliothek, UG, Münchhausenstr., ZSM": {
+                "name": "C203, Bibliothek, UG, Münchhausenstr., ZSM",
+                "aps": [
+                    {
+                        "name": "apa01-kzz",
+                        "url": "/apstat/apa01-kzz/"
+                    }
+                ]
+            }
+        }
+    },
+    "/apstat/filter/Unterbezirk/sp": {
+        "name": "Historisches Kolleg",
+        "address": [
+            "Kaulbachstr. 15",
+            "80539 München"
+        ],
+        "url": "/apstat/filter/Unterbezirk/sp",
+        "rooms": {
+            "Bibliothek": {
+                "name": "Bibliothek",
+                "aps": [
+                    {
+                        "name": "apa02-1sp",
+                        "url": "/apstat/apa02-1sp/"
+                    }
+                ]
+            }
+        }
+    },
+    "/apstat/filter/Unterbezirk/sd": {
+        "name": "LMU, Ludwigstr. 14",
+        "address": [
+            "Ludwigstr. 14",
+            "80539 München"
+        ],
+        "url": "/apstat/filter/Unterbezirk/sd",
+        "rooms": {
+            "Lesesaal der Bibliothek": {
+                "name": "Lesesaal der Bibliothek",
+                "aps": [
+                    {
+                        "name": "apa02-zsd",
+                        "url": "/apstat/apa02-zsd/"
+                    }
+                ]
+            }
+        }
+    }
+}
