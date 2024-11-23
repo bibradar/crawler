@@ -1,13 +1,15 @@
+DROP TABLE Library CASCADE;
 -- Create the Library table
 CREATE TABLE Library (
     id SERIAL PRIMARY KEY,
     name VARCHAR(255) NOT NULL,
+    bib VARCHAR(255) NOT NULL,
+    uni VARCHAR(255) NOT NULL,
     location VARCHAR(255) NOT NULL
 );
 
-INSERT INTO Library (name, location) VALUES ('LMU, Fachbibliothek Philologicum', 'Ludwigstr. 25\n 80539 München');
+INSERT INTO Library (name, bib, uni, location) VALUES ('Fachbibliothek Philologicum', 'Fachbibliothek Philologicum', 'LMU', 'Ludwigstr. 25\n 80539 München');
 
-DROP TABLE AccessPoint CASCADE;
 -- Create the AccessPoint table
 CREATE TABLE AccessPoint (
     id SERIAL PRIMARY KEY,
@@ -16,7 +18,6 @@ CREATE TABLE AccessPoint (
     FOREIGN KEY (library_id) REFERENCES Library(id) ON DELETE CASCADE
 );
 
-DROP TABLE Utilization;
 -- Create the Utilization table
 CREATE TABLE Utilization (
     accesspoint_id INT NOT NULL,

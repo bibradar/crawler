@@ -14,11 +14,13 @@ DB_CONFIG = {
     "user": os.getenv("DB_USER"),
     "password": os.getenv("DB_PASSWORD"),
     "host": os.getenv("DB_HOST"),
-    "port": int(os.getenv("DB_PORT", 5432)),  # Default to 5432 if DB_PORT is not set
+    "port": int(os.getenv("DB_PORT", 5432)),
 }
 
 # URL to crawl
-URL = "http://graphite-kom.srv.lrz.de/render/?from=-60min&target=ap.apa{01,02,03,04,05,06,07,08,09,10,11,12,13}*-?mg*.ssid.*&format=json"
+URL = "http://graphite-kom.srv.lrz.de/render/?from=-2y&target=ap.apa{01,02,03,04,05,06,07,08,09,10,11,12,13}*-?gh*.ssid.*&format=json"
+
+TIMEZONE = datetime.now().astimezone().tzinfo
 
 def fetch_data(url):
     """Fetch JSON data from the given URL."""
@@ -40,7 +42,7 @@ def parse_target(target):
 
 def unix_to_pg_timestamp(unix_time):
     """Convert Unix timestamp to a PostgreSQL-compatible timestamp."""
-    return datetime.utcfromtimestamp(unix_time).isoformat()
+    return datetime.fromtimestamp(unix_time, TIMEZONE).isoformat()
 
 
 def write_to_db(data):
@@ -67,27 +69,32 @@ def write_to_db(data):
         for entry in data:
             target = entry["target"]
             datapoints = entry["datapoints"]
-            print(f"Processing data for target: {target}")
 
             # Parse target to extract AccessPoint name and SSID
-            access_point_name, _ = parse_target(target)
+            access_point_name, ssid = parse_target(target)
+            
+            if ssid != "eduroam":
+                continue
 
+            print(f"Processing data for target: {target}")
+            
             # Insert or retrieve AccessPoint ID
             cur.execute(access_point_query, (access_point_name, 1))
             access_point_id = cur.fetchone()
             if not access_point_id:
                 cur.execute("SELECT id FROM AccessPoint WHERE name = %s", (access_point_name,))
                 access_point_id = cur.fetchone()[0]
+                
 
             # Prepare data for batch insertion into Utilization
             utilization_data = [
-                (access_point_id, unix_to_pg_timestamp(dp[1]), dp[0] or 0)  # (accesspoint_id, timestamp, user_count)
+                (access_point_id, unix_to_pg_timestamp(dp[1]), dp[0])  # (accesspoint_id, timestamp, user_count)
                 for dp in datapoints
                 if dp[1] is not None
             ]
             execute_batch(cur, utilization_query, utilization_data)
-
-        conn.commit()
+            conn.commit()
+        
         print("Data successfully written to the database.")
     except Exception as e:
         print(f"Error writing to database: {e}")
@@ -97,8 +104,13 @@ def write_to_db(data):
 
 def main():
     """Main function."""
+    print("Reading in bibs.jons")
+    # TODO
+    
     print("Fetching data...")
     data = fetch_data(URL)
+    
+    print(f"Received data for {len(data)} targets.")
 
     if data:
         print("Writing data to database...")
