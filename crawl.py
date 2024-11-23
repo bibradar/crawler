@@ -18,7 +18,7 @@ DB_CONFIG = {
 }
 
 # URL to crawl
-URL = "http://graphite-kom.srv.lrz.de/render/?from=-1w&target=ap.apa{01,02,03,04,05,06,07,08,09,10,11,12,13}*-?gh*.ssid.*&format=json"
+URL = "http://graphite-kom.srv.lrz.de/render/?from=-2y&target=ap.apa{01,02,03,04,05,06,07,08,09,10,11,12,13}*-?gh*.ssid.*&format=json"
 
 TIMEZONE = datetime.now().astimezone().tzinfo
 
